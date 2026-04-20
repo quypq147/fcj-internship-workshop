@@ -1,6 +1,6 @@
 ---
 title: "Internship Report"
-date: 2024-01-01
+date: 2026-01-01
 weight: 1
 chapter: false
 ---
@@ -13,13 +13,13 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+&emsp; **Full Name:** Phan Ngoc Quy
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Phone Number:** 0366264791 
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** phanngocquy1472004@gmail.com
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** Ho Chi Minh City of Technology (HUTECH)
 
 &emsp; **Major:** Information Technology
 
@@ -29,7 +29,7 @@ chapter: false
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+&emsp; **Internship Duration:** From 17/04/2026 to 09/07/2026
 
 ![Your profile picture](/images/avatar.png)
 

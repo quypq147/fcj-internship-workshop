@@ -1,10 +1,18 @@
+# Context for GitHub Copilot
+
+Dự án này là một trang tài liệu/workshop sử dụng Hugo. Dưới đây là cấu trúc template Markdown chuẩn dùng cho các bài viết và workshop trong dự án. Khi tạo nội dung mới, hãy tuân thủ cấu trúc Frontmatter và các thành phần định dạng (Heading, Shortcode) như mẫu dưới đây.
+
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-weight: 1
+
+## Mẫu Template Bài Viết (Page/Workshop Template)
+
+```markdown
+---
+title: "[Nhập Tiêu đề bài viết tại đây]"
+date: 2024-01-01
+weight: [Nhập số thứ tự menu]
 chapter: false
-pre: " <b> 1. </b> "
-draft: true
+pre: " <b> [Nhập số thứ tự chương]. </b> "
 ---
 
 {{% notice warning %}}

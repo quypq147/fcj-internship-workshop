@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 4"
 date: 2024-01-01
-weight: 1
+weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
@@ -12,48 +12,23 @@ pre: " <b> 1.4. </b> "
 
 ### Mục tiêu tuần 4:
 
-* Kết nối, làm quen với các thành viên trong First Cloud Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Tập trung vào bảo mật, giới hạn dịch vụ và kiểm soát truy cập.
+* Làm quen với các dịch vụ hỗ trợ quản trị an toàn trên AWS.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Các hoạt động chính:
 
+* 08/05/2026: AWS: Quotas & Environment - theo dõi giới hạn dịch vụ và chuẩn bị môi trường làm việc.
+* 09/05/2026: AWS: EBS Backup Automation - tự động hóa snapshot và chiến lược sao lưu.
+* 10/05/2026: AWS: SSO & Permissions - làm quen xác thực tập trung và phân quyền người dùng.
+* 11/05/2026: AWS: IAM Policies & Sec Hub - xây dựng chính sách IAM và kiểm tra bảo mật với Security Hub.
+* 12/05/2026: AWS: S3 Endpoints & WAF - truy cập riêng tư đến S3 và bảo vệ ứng dụng bằng WAF.
+* 13/05/2026: AWS: Macie & KMS - mã hóa dữ liệu và phát hiện dữ liệu nhạy cảm.
+* 14/05/2026: AWS: Secrets & Firewall Mgr - quản lý bí mật và điều phối chính sách bảo mật đa tài khoản.
 
 ### Kết quả đạt được tuần 4:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Hiểu được cách thiết kế bảo mật nhiều lớp trên AWS.
+* Biết áp dụng IAM, KMS, Macie, WAF và Security Hub trong bài toán thực tế.
+* Có nền tảng để xử lý các workload nhạy cảm và yêu cầu kiểm soát truy cập chặt.
 
 

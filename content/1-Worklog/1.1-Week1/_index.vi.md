@@ -12,48 +12,23 @@ pre: " <b> 1.1. </b> "
 
 ### Mục tiêu tuần 1:
 
-* Kết nối, làm quen với các thành viên trong First Cloud Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Làm quen với tài khoản AWS, cơ chế quản lý chi phí và các dịch vụ nền tảng.
+* Nắm được các dịch vụ cơ bản để chuẩn bị cho các bài thực hành sau.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Các hoạt động chính:
 
+* 17/04/2026: AWS: Account & Budgets - tạo tài khoản, làm quen AWS Budgets và cách theo dõi chi phí.
+* 18/04/2026: AWS: Support & IAM - tìm hiểu kênh hỗ trợ AWS và cách quản lý truy cập bằng IAM.
+* 19/04/2026: AWS: VPC & EC2 - học nền tảng mạng VPC và thực hành điện toán với EC2.
+* 20/04/2026: AWS: IAM Roles & Cloud9 - triển khai IAM Role cho EC2 và làm quen môi trường Cloud9.
+* 21/04/2026: AWS: S3 & RDS - thực hành lưu trữ tĩnh với S3 và cơ sở dữ liệu với RDS.
+* 22/04/2026: AWS: Lightsail - tìm hiểu cách triển khai dịch vụ đơn giản bằng Lightsail.
+* 23/04/2026: AWS: Auto Scaling & CloudWatch - giám sát hệ thống bằng CloudWatch và tự động mở rộng bằng Auto Scaling.
 
 ### Kết quả đạt được tuần 1:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Hiểu được cách tổ chức tài khoản AWS, chi phí và hỗ trợ kỹ thuật.
+* Biết cách phân biệt và sử dụng các dịch vụ nền tảng như IAM, VPC, EC2, S3, RDS.
+* Có được bức tranh tổng quan để bước vào các chủ đề mạng, bảo mật và triển khai ứng dụng.
 
 

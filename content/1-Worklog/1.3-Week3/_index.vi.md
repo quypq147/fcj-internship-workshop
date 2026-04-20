@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 3"
 date: 2024-01-01
-weight: 1
+weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
@@ -12,48 +12,23 @@ pre: " <b> 1.3. </b> "
 
 ### Mục tiêu tuần 3:
 
-* Kết nối, làm quen với các thành viên trong First Cloud Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Làm quen với Infrastructure as Code, quản trị hệ thống và giám sát.
+* Biết cách dùng AWS để tự động hóa triển khai và vận hành.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Các hoạt động chính:
 
+* 01/05/2026: AWS: Lambda & Grafana - tìm hiểu serverless automation và giám sát nâng cao.
+* 02/05/2026: AWS: CloudWatch Advanced - mở rộng kỹ năng quan sát hệ thống bằng CloudWatch.
+* 03/05/2026: AWS: Resource Tags & IAM - quản lý tổ chức tài nguyên và quyền truy cập theo thẻ.
+* 04/05/2026: AWS: Systems Manager - vận hành máy chủ từ xa bằng Systems Manager và Session Manager.
+* 05/05/2026: AWS: CloudFormation & CDK - triển khai hạ tầng bằng CloudFormation và CDK.
+* 06/05/2026: AWS: IaC Advanced - thực hành nâng cao với CDK và mô hình hạ tầng dạng mã.
+* 07/05/2026: AWS: Optimization & Monitoring - tối ưu tài nguyên, giám sát mạng và quản lý billing.
 
 ### Kết quả đạt được tuần 3:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Hiểu cách AWS hỗ trợ tự động hóa hạ tầng và vận hành.
+* Biết áp dụng tagging, IAM, Systems Manager và CloudWatch vào quản trị thực tế.
+* Nắm được nền tảng để làm việc với IaC trong các tuần sau.
 
 

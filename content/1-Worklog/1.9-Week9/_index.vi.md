@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 9"
 date: 2024-01-01
-weight: 1
+weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
@@ -12,48 +12,23 @@ pre: " <b> 1.9. </b> "
 
 ### Mục tiêu tuần 9:
 
-* Kết nối, làm quen với các thành viên trong First Cloud Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Làm việc với các công cụ phát triển web, quan sát hệ thống và triển khai ứng dụng.
+* Hiểu các mô hình kết hợp giữa frontend, backend và hạ tầng truyền thống.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Các hoạt động chính:
 
+* 12/06/2026: AWS: Doc Mgmt CRUD & Amplify - xây dựng CRUD serverless và lưu trữ với Amplify.
+* 13/06/2026: AWS: API Gateway & SAM - tích hợp frontend với API Gateway và triển khai bằng SAM.
+* 14/06/2026: AWS: CloudFront & Search - cấu hình CDN và bổ sung chức năng tìm kiếm.
+* 15/06/2026: AWS: X-Ray Tracing - theo dõi request phân tán bằng X-Ray và CloudWatch.
+* 16/06/2026: AWS: Web App Workshop - thực hành xây dựng API và ứng dụng chat serverless.
+* 17/06/2026: AWS: Elastic Beanstalk - triển khai ứng dụng Node.js và CI/CD với Beanstalk.
+* 18/06/2026: AWS: WordPress - tìm hiểu kiến trúc WordPress trên EC2.
 
 ### Kết quả đạt được tuần 9:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Biết cách kết hợp frontend, backend, CDN và tracing trong một hệ thống web.
+* Hiểu cách chọn giữa serverless, Beanstalk và triển khai truyền thống tùy nhu cầu.
+* Có thể phân tích luồng request và debug ứng dụng hiệu quả hơn.
 
 
