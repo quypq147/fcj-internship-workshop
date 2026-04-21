@@ -11,14 +11,15 @@ pre: " <b> 1.8. </b> "
 * Thực hành xác thực người dùng, nhắn tin và giám sát ứng dụng.
 
 ### Các hoạt động chính:
-
-* 05/06/2026: AWS: Book Store Backend - xây dựng backend serverless cho hệ thống quản lý sách.
-* 06/06/2026: AWS: SAM & Cognito - triển khai bằng SAM và xác thực người dùng với Cognito.
-* 07/06/2026: AWS: SSL & SNS/SQS - cấu hình custom domain, SSL và cơ chế nhắn tin.
-* 08/06/2026: AWS: Serverless CI/CD - tự động hóa pipeline cho ứng dụng serverless.
-* 09/06/2026: AWS: Serverless Monitoring - giám sát log, metric và cảnh báo.
-* 10/06/2026: AWS: AppSync GraphQL - xây dựng API GraphQL với AppSync.
-* 11/06/2026: AWS: Study Group Catch-up - ôn tập và bù kiến thức còn thiếu.
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Book Store Backend | 05/06/2026 | 05/06/2026 | Xây dựng backend serverless cho hệ thống quản lý sách | Hoàn thành |
+| 2 | AWS: SAM & Cognito | 06/06/2026 | 06/06/2026 | Triển khai bằng SAM và xác thực người dùng với Cognito | Hoàn thành |
+| 3 | AWS: SSL & SNS/SQS | 07/06/2026 | 07/06/2026 | Cấu hình custom domain, SSL và cơ chế nhắn tin | Hoàn thành |
+| 4 | AWS: Serverless CI/CD | 08/06/2026 | 08/06/2026 | Tự động hóa pipeline cho ứng dụng serverless | Hoàn thành |
+| 5 | AWS: Serverless Monitoring | 09/06/2026 | 09/06/2026 | Giám sát log, metric và cảnh báo | Hoàn thành |
+| 6 | AWS: AppSync GraphQL | 10/06/2026 | 10/06/2026 | Xây dựng API GraphQL với AppSync | Hoàn thành |
+| 7 | AWS: Study Group Catch-up | 11/06/2026 | 11/06/2026 | Ôn tập và bù kiến thức còn thiếu | Hoàn thành |
 
 ### Kết quả đạt được tuần 8:
 

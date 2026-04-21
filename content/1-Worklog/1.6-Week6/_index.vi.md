@@ -11,14 +11,15 @@ pre: " <b> 1.6. </b> "
 * Tìm hiểu thêm về storage và tối ưu chi phí vận hành.
 
 ### Các hoạt động chính:
-
-* 22/05/2026: AWS: Docker & ECS - container hóa ứng dụng và chạy trên Amazon ECS.
-* 23/05/2026: AWS: ECS IaC & CodePipeline - tự động hóa triển khai ECS bằng CDK và CodePipeline.
-* 24/05/2026: AWS: Deployments & DevOps - áp dụng quy trình phát hành tự động trong DevOps.
-* 25/05/2026: AWS: Storage Gateway & FSx - làm việc với lưu trữ lai và file storage cho Windows.
-* 26/05/2026: AWS: DynamoDB & Step Functions - điều phối workflow và làm việc với dữ liệu phi quan hệ.
-* 27/05/2026: AWS: Storage Performance - tối ưu hiệu năng lưu trữ cho workload thực tế.
-* 28/05/2026: AWS: Cost Visualization - phân tích và trực quan hóa chi phí để tối ưu ngân sách.
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Docker & ECS | 22/05/2026 | 22/05/2026 | Container hóa ứng dụng và chạy trên Amazon ECS | Hoàn thành |
+| 2 | AWS: ECS IaC & CodePipeline | 23/05/2026 | 23/05/2026 | Tự động hóa triển khai ECS bằng CDK và CodePipeline | Hoàn thành |
+| 3 | AWS: Deployments & DevOps | 24/05/2026 | 24/05/2026 | Áp dụng quy trình phát hành tự động trong DevOps | Hoàn thành |
+| 4 | AWS: Storage Gateway & FSx | 25/05/2026 | 25/05/2026 | Làm việc với lưu trữ lai và file storage cho Windows | Hoàn thành |
+| 5 | AWS: DynamoDB & Step Functions | 26/05/2026 | 26/05/2026 | Điều phối workflow và làm việc với dữ liệu phi quan hệ | Hoàn thành |
+| 6 | AWS: Storage Performance | 27/05/2026 | 27/05/2026 | Tối ưu hiệu năng lưu trữ cho workload thực tế | Hoàn thành |
+| 7 | AWS: Cost Visualization | 28/05/2026 | 28/05/2026 | Phân tích và trực quan hóa chi phí để tối ưu ngân sách | Hoàn thành |
 
 ### Kết quả đạt được tuần 6:
 

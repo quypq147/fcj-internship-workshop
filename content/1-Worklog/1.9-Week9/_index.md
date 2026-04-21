@@ -11,14 +11,15 @@ pre: " <b> 1.9. </b> "
 * Compare serverless and platform-based deployment approaches.
 
 ### Key activities:
-
-* 06/12/2026: AWS: Doc Mgmt CRUD & Amplify - built CRUD workflows with Amplify support.
-* 06/13/2026: AWS: API Gateway & SAM - integrated frontend and API layers.
-* 06/14/2026: AWS: CloudFront & Search - optimized content delivery and search features.
-* 06/15/2026: AWS: X-Ray Tracing - traced distributed requests across services.
-* 06/16/2026: AWS: Web App Workshop - practiced serverless API and chat app patterns.
-* 06/17/2026: AWS: Elastic Beanstalk - deployed Node.js applications with CI/CD.
-* 06/18/2026: AWS: WordPress - reviewed WordPress deployment on EC2.
+| Day | Task | Start Date | Completion Date | Reference Material | Status |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Doc Mgmt CRUD & Amplify | 06/12/2026 | 06/12/2026 | Built CRUD workflows with Amplify support | Completed |
+| 2 | AWS: API Gateway & SAM | 06/13/2026 | 06/13/2026 | Integrated frontend and API layers | Completed |
+| 3 | AWS: CloudFront & Search | 06/14/2026 | 06/14/2026 | Optimized content delivery and search features | Completed |
+| 4 | AWS: X-Ray Tracing | 06/15/2026 | 06/15/2026 | Traced distributed requests across services | Completed |
+| 5 | AWS: Web App Workshop | 06/16/2026 | 06/16/2026 | Practiced serverless API and chat app patterns | Completed |
+| 6 | AWS: Elastic Beanstalk | 06/17/2026 | 06/17/2026 | Deployed Node.js applications with CI/CD | Completed |
+| 7 | AWS: WordPress | 06/18/2026 | 06/18/2026 | Reviewed WordPress deployment on EC2 | Completed |
 
 
 ### Week 9 Achievements:

@@ -11,14 +11,15 @@ pre: " <b> 1.6. </b> "
 * Extend understanding of storage strategy and cost optimization.
 
 ### Key activities:
-
-* 05/22/2026: AWS: Docker & ECS - containerized applications and deployed on ECS.
-* 05/23/2026: AWS: ECS IaC & CodePipeline - automated ECS delivery with CDK and pipeline.
-* 05/24/2026: AWS: Deployments & DevOps - practiced release automation patterns.
-* 05/25/2026: AWS: Storage Gateway & FSx - explored hybrid and file storage scenarios.
-* 05/26/2026: AWS: DynamoDB & Step Functions - integrated NoSQL and workflow orchestration.
-* 05/27/2026: AWS: Storage Performance - optimized storage performance behavior.
-* 05/28/2026: AWS: Cost Visualization - analyzed and visualized cloud costs.
+| Day | Task | Start Date | Completion Date | Reference Material | Status |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Docker & ECS | 05/22/2026 | 05/22/2026 | Containerized applications and deployed on ECS | Completed |
+| 2 | AWS: ECS IaC & CodePipeline | 05/23/2026 | 05/23/2026 | Automated ECS delivery with CDK and pipeline | Completed |
+| 3 | AWS: Deployments & DevOps | 05/24/2026 | 05/24/2026 | Practiced release automation patterns | Completed |
+| 4 | AWS: Storage Gateway & FSx | 05/25/2026 | 05/25/2026 | Explored hybrid and file storage scenarios | Completed |
+| 5 | AWS: DynamoDB & Step Functions | 05/26/2026 | 05/26/2026 | Integrated NoSQL and workflow orchestration | Completed |
+| 6 | AWS: Storage Performance | 05/27/2026 | 05/27/2026 | Optimized storage performance behavior | Completed |
+| 7 | AWS: Cost Visualization | 05/28/2026 | 05/28/2026 | Analyzed and visualized cloud costs | Completed |
 
 
 ### Week 6 Achievements:

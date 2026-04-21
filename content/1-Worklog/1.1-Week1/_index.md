@@ -14,16 +14,15 @@ pre: " <b> 1.1. </b> "
 * Build baseline understanding for deeper hands-on labs in later weeks.
 
 ### Key activities:
-
-* 04/17/2026: AWS: Account & Budgets - created account baseline and practiced budget monitoring.
-    + Create AWS Account : Done
-    + 
-* 04/18/2026: AWS: Support & IAM - learned AWS support channels and IAM fundamentals.
-* 04/19/2026: AWS: VPC & EC2 - studied VPC networking and EC2 compute basics.
-* 04/20/2026: AWS: IAM Roles & Cloud9 - applied IAM roles for EC2 and explored Cloud9.
-* 04/21/2026: AWS: S3 & RDS - practiced storage on S3 and relational DB on RDS.
-* 04/22/2026: AWS: Lightsail - explored simplified deployment with Lightsail.
-* 04/23/2026: AWS: Auto Scaling & CloudWatch - monitored workloads and scaling behavior.
+| Day | Task | Start Date | Completion Date | Reference Material | Status |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Account & Budgets | 04/17/2026 | 04/17/2026 | Created account baseline and practiced budget monitoring | Completed |
+| 2 | AWS: Support & IAM | 04/18/2026 | 04/18/2026 | Learned AWS support channels and IAM fundamentals | Completed |
+| 3 | AWS: VPC & EC2 | 04/19/2026 | 04/19/2026 | Studied VPC networking and EC2 compute basics | Completed |
+| 4 | AWS: IAM Roles & Cloud9 | 04/20/2026 | 04/20/2026 | Applied IAM roles for EC2 and explored Cloud9 | Completed |
+| 5 | AWS: S3 & RDS | 04/21/2026 | 04/21/2026 | Practiced storage on S3 and relational DB on RDS | Completed |
+| 6 | AWS: Lightsail | 04/22/2026 | 04/22/2026 | Explored simplified deployment with Lightsail | Completed |
+| 7 | AWS: Auto Scaling & CloudWatch | 04/23/2026 | 04/23/2026 | Monitored workloads and scaling behavior | Completed |
 
 
 ### Week 1 Achievements:

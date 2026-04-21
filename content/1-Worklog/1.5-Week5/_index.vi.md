@@ -11,14 +11,15 @@ pre: " <b> 1.5. </b> "
 * Thực hành các mô hình clustering, backup và messaging ở mức nâng cao.
 
 ### Các hoạt động chính:
-
-* 15/05/2026: AWS: Security & Patching - bảo vệ hệ thống, cập nhật bản vá và giám sát rủi ro.
-* 16/05/2026: AWS: Backup & VPC Peering - sao lưu dữ liệu và kết nối các VPC với nhau.
-* 17/05/2026: AWS: Transit GW & Messaging - quản lý mạng tập trung và xây dựng luồng nhắn tin.
-* 18/05/2026: AWS: EBS Multi-Attach - chia sẻ storage cho workload có yêu cầu đặc biệt.
-* 19/05/2026: AWS: Windows Clustering - tìm hiểu failover clustering cho Windows Server.
-* 20/05/2026: AWS: SQL Server HA 2019 - triển khai high availability cho SQL Server.
-* 21/05/2026: AWS: SQL Server HA 2022 - tiếp tục tối ưu mô hình HA trên phiên bản mới hơn.
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Security & Patching | 15/05/2026 | 15/05/2026 | Bảo vệ hệ thống, cập nhật bản vá và giám sát rủi ro | Hoàn thành |
+| 2 | AWS: Backup & VPC Peering | 16/05/2026 | 16/05/2026 | Sao lưu dữ liệu và kết nối các VPC với nhau | Hoàn thành |
+| 3 | AWS: Transit GW & Messaging | 17/05/2026 | 17/05/2026 | Quản lý mạng tập trung và xây dựng luồng nhắn tin | Hoàn thành |
+| 4 | AWS: EBS Multi-Attach | 18/05/2026 | 18/05/2026 | Chia sẻ storage cho workload có yêu cầu đặc biệt | Hoàn thành |
+| 5 | AWS: Windows Clustering | 19/05/2026 | 19/05/2026 | Tìm hiểu failover clustering cho Windows Server | Hoàn thành |
+| 6 | AWS: SQL Server HA 2019 | 20/05/2026 | 20/05/2026 | Triển khai high availability cho SQL Server | Hoàn thành |
+| 7 | AWS: SQL Server HA 2022 | 21/05/2026 | 21/05/2026 | Tiếp tục tối ưu mô hình HA trên phiên bản mới hơn | Hoàn thành |
 
 ### Kết quả đạt được tuần 5:
 

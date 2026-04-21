@@ -11,14 +11,15 @@ pre: " <b> 1.7. </b> "
 * Improve product-level thinking from monolith migration to event-driven design.
 
 ### Key activities:
-
-* 05/29/2026: AWS: Microservices Migration - reviewed migration from monolith to microservices.
-* 05/30/2026: AWS: Building Microservices - designed data and workflow split.
-* 05/31/2026: AWS: Event-Driven Arch - implemented event-driven architecture ideas.
-* 06/01/2026: AWS: SPA Auth - integrated authentication for SPA workloads.
-* 06/02/2026: AWS: AI Services - explored AI service integration options.
-* 06/03/2026: AWS: DevAx Hands-on - practiced detailed DevAx exercises.
-* 06/04/2026: AWS: DevAx Review - consolidated serverless architecture lessons.
+| Day | Task | Start Date | Completion Date | Reference Material | Status |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Microservices Migration | 05/29/2026 | 05/29/2026 | Reviewed migration from monolith to microservices | Completed |
+| 2 | AWS: Building Microservices | 05/30/2026 | 05/30/2026 | Designed data and workflow split | Completed |
+| 3 | AWS: Event-Driven Arch | 05/31/2026 | 05/31/2026 | Implemented event-driven architecture ideas | Completed |
+| 4 | AWS: SPA Auth | 06/01/2026 | 06/01/2026 | Integrated authentication for SPA workloads | Completed |
+| 5 | AWS: AI Services | 06/02/2026 | 06/02/2026 | Explored AI service integration options | Completed |
+| 6 | AWS: DevAx Hands-on | 06/03/2026 | 06/03/2026 | Practiced detailed DevAx exercises | Completed |
+| 7 | AWS: DevAx Review | 06/04/2026 | 06/04/2026 | Consolidated serverless architecture lessons | Completed |
 
 
 ### Week 7 Achievements:

@@ -11,14 +11,15 @@ pre: " <b> 1.9. </b> "
 * Hiểu các mô hình kết hợp giữa frontend, backend và hạ tầng truyền thống.
 
 ### Các hoạt động chính:
-
-* 12/06/2026: AWS: Doc Mgmt CRUD & Amplify - xây dựng CRUD serverless và lưu trữ với Amplify.
-* 13/06/2026: AWS: API Gateway & SAM - tích hợp frontend với API Gateway và triển khai bằng SAM.
-* 14/06/2026: AWS: CloudFront & Search - cấu hình CDN và bổ sung chức năng tìm kiếm.
-* 15/06/2026: AWS: X-Ray Tracing - theo dõi request phân tán bằng X-Ray và CloudWatch.
-* 16/06/2026: AWS: Web App Workshop - thực hành xây dựng API và ứng dụng chat serverless.
-* 17/06/2026: AWS: Elastic Beanstalk - triển khai ứng dụng Node.js và CI/CD với Beanstalk.
-* 18/06/2026: AWS: WordPress - tìm hiểu kiến trúc WordPress trên EC2.
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Doc Mgmt CRUD & Amplify | 12/06/2026 | 12/06/2026 | Xây dựng CRUD serverless và lưu trữ với Amplify | Hoàn thành |
+| 2 | AWS: API Gateway & SAM | 13/06/2026 | 13/06/2026 | Tích hợp frontend với API Gateway và triển khai bằng SAM | Hoàn thành |
+| 3 | AWS: CloudFront & Search | 14/06/2026 | 14/06/2026 | Cấu hình CDN và bổ sung chức năng tìm kiếm | Hoàn thành |
+| 4 | AWS: X-Ray Tracing | 15/06/2026 | 15/06/2026 | Theo dõi request phân tán bằng X-Ray và CloudWatch | Hoàn thành |
+| 5 | AWS: Web App Workshop | 16/06/2026 | 16/06/2026 | Thực hành xây dựng API và ứng dụng chat serverless | Hoàn thành |
+| 6 | AWS: Elastic Beanstalk | 17/06/2026 | 17/06/2026 | Triển khai ứng dụng Node.js và CI/CD với Beanstalk | Hoàn thành |
+| 7 | AWS: WordPress | 18/06/2026 | 18/06/2026 | Tìm hiểu kiến trúc WordPress trên EC2 | Hoàn thành |
 
 ### Kết quả đạt được tuần 9:
 

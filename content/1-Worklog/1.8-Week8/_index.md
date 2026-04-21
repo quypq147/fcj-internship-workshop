@@ -11,14 +11,15 @@ pre: " <b> 1.8. </b> "
 * Practice authentication, messaging, deployment automation, and monitoring.
 
 ### Key activities:
-
-* 06/05/2026: AWS: Book Store Backend - built a serverless backend foundation.
-* 06/06/2026: AWS: SAM & Cognito - deployed with SAM and integrated user auth.
-* 06/07/2026: AWS: SSL & SNS/SQS - configured SSL and event messaging patterns.
-* 06/08/2026: AWS: Serverless CI/CD - automated release pipeline for serverless apps.
-* 06/09/2026: AWS: Serverless Monitoring - monitored logs, metrics, and alarms.
-* 06/10/2026: AWS: AppSync GraphQL - implemented GraphQL APIs with AppSync.
-* 06/11/2026: AWS: Study Group Catch-up - consolidated pending learning items.
+| Day | Task | Start Date | Completion Date | Reference Material | Status |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Book Store Backend | 06/05/2026 | 06/05/2026 | Built a serverless backend foundation | Completed |
+| 2 | AWS: SAM & Cognito | 06/06/2026 | 06/06/2026 | Deployed with SAM and integrated user auth | Completed |
+| 3 | AWS: SSL & SNS/SQS | 06/07/2026 | 06/07/2026 | Configured SSL and event messaging patterns | Completed |
+| 4 | AWS: Serverless CI/CD | 06/08/2026 | 06/08/2026 | Automated release pipeline for serverless apps | Completed |
+| 5 | AWS: Serverless Monitoring | 06/09/2026 | 06/09/2026 | Monitored logs, metrics, and alarms | Completed |
+| 6 | AWS: AppSync GraphQL | 06/10/2026 | 06/10/2026 | Implemented GraphQL APIs with AppSync | Completed |
+| 7 | AWS: Study Group Catch-up | 06/11/2026 | 06/11/2026 | Consolidated pending learning items | Completed |
 
 
 ### Week 8 Achievements:

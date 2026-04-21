@@ -11,14 +11,15 @@ pre: " <b> 1.11. </b> "
 * Build understanding of BI and advanced PostgreSQL use cases.
 
 ### Key activities:
-
-* 06/26/2026: AWS: Data Lake Fundamentals - learned data lake principles on AWS.
-* 06/27/2026: AWS: Build Data Lake - practiced implementation with sample data.
-* 06/28/2026: AWS: Analytics Overview & QuickSight - explored analytics and BI workflows.
-* 06/29/2026: AWS: Data Eng Immersion Day - completed data engineering workshop scenarios.
-* 06/30/2026: AWS: Athena Analytics - queried data with serverless analytics.
-* 07/01/2026: AWS: Adv PostgreSQL Part 1 - advanced PostgreSQL features and tuning.
-* 07/02/2026: AWS: Adv PostgreSQL Part 2 - continued advanced database patterns.
+| Day | Task | Start Date | Completion Date | Reference Material | Status |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Data Lake Fundamentals | 06/26/2026 | 06/26/2026 | Learned data lake principles on AWS | Completed |
+| 2 | AWS: Build Data Lake | 06/27/2026 | 06/27/2026 | Practiced implementation with sample data | Completed |
+| 3 | AWS: Analytics Overview & QuickSight | 06/28/2026 | 06/28/2026 | Explored analytics and BI workflows | Completed |
+| 4 | AWS: Data Eng Immersion Day | 06/29/2026 | 06/29/2026 | Completed data engineering workshop scenarios | Completed |
+| 5 | AWS: Athena Analytics | 06/30/2026 | 06/30/2026 | Queried data with serverless analytics | Completed |
+| 6 | AWS: Adv PostgreSQL Part 1 | 07/01/2026 | 07/01/2026 | Advanced PostgreSQL features and tuning | Completed |
+| 7 | AWS: Adv PostgreSQL Part 2 | 07/02/2026 | 07/02/2026 | Continued advanced database patterns | Completed |
 
 
 ### Week 11 Achievements:

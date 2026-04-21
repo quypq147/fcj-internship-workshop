@@ -11,14 +11,15 @@ pre: " <b> 1.10. </b> "
 * Compare ECS, EKS, and OpenShift implementation options.
 
 ### Key activities:
-
-* 06/19/2026: AWS: Lightsail Containers - deployed containers on Lightsail.
-* 06/20/2026: AWS: ECS & Fargate - ran container workloads without server management.
-* 06/21/2026: AWS: ECS CDK - modeled ECS infrastructure using CDK.
-* 06/22/2026: AWS: ECS CI/CD - built CI/CD flows for ECS applications.
-* 06/23/2026: AWS: EKS Getting Started - started with Kubernetes on EKS.
-* 06/24/2026: AWS: EKS Blueprints - used blueprint-based EKS and delivery patterns.
-* 06/25/2026: AWS: Red Hat OpenShift - reviewed ROSA platform capabilities.
+| Day | Task | Start Date | Completion Date | Reference Material | Status |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: Lightsail Containers | 06/19/2026 | 06/19/2026 | Deployed containers on Lightsail | Completed |
+| 2 | AWS: ECS & Fargate | 06/20/2026 | 06/20/2026 | Ran container workloads without server management | Completed |
+| 3 | AWS: ECS CDK | 06/21/2026 | 06/21/2026 | Modeled ECS infrastructure using CDK | Completed |
+| 4 | AWS: ECS CI/CD | 06/22/2026 | 06/22/2026 | Built CI/CD flows for ECS applications | Completed |
+| 5 | AWS: EKS Getting Started | 06/23/2026 | 06/23/2026 | Started with Kubernetes on EKS | Completed |
+| 6 | AWS: EKS Blueprints | 06/24/2026 | 06/24/2026 | Used blueprint-based EKS and delivery patterns | Completed |
+| 7 | AWS: Red Hat OpenShift | 06/25/2026 | 06/25/2026 | Reviewed ROSA platform capabilities | Completed |
 
 
 ### Week 10 Achievements:

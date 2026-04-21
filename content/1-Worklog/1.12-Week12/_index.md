@@ -11,14 +11,15 @@ pre: " <b> 1.12. </b> "
 * Consolidate learning outcomes into a complete worklog summary.
 
 ### Key activities:
-
-* 07/03/2026: AWS: SageMaker ML - learned ML workflow fundamentals on AWS.
-* 07/04/2026: AWS: SageMaker Immersion Day 1 - completed practical immersion exercises.
-* 07/05/2026: AWS: SageMaker Immersion Day 2 - finalized immersion track tasks.
-* 07/06/2026: AWS: Migration Review - revisited migration lessons and patterns.
-* 07/07/2026: AWS: Best Practices Review - consolidated architecture best practices.
-* 07/08/2026: AWS: Hands-on Review - reviewed practical labs and implementation notes.
-* 07/09/2026: AWS: Journey Finalization - completed final consolidation of the full journey.
+| Day | Task | Start Date | Completion Date | Reference Material | Status |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: SageMaker ML | 07/03/2026 | 07/03/2026 | Learned ML workflow fundamentals on AWS | Completed |
+| 2 | AWS: SageMaker Immersion Day 1 | 07/04/2026 | 07/04/2026 | Completed practical immersion exercises | Completed |
+| 3 | AWS: SageMaker Immersion Day 2 | 07/05/2026 | 07/05/2026 | Finalized immersion track tasks | Completed |
+| 4 | AWS: Migration Review | 07/06/2026 | 07/06/2026 | Revisited migration lessons and patterns | Completed |
+| 5 | AWS: Best Practices Review | 07/07/2026 | 07/07/2026 | Consolidated architecture best practices | Completed |
+| 6 | AWS: Hands-on Review | 07/08/2026 | 07/08/2026 | Reviewed practical labs and implementation notes | Completed |
+| 7 | AWS: Journey Finalization | 07/09/2026 | 07/09/2026 | Completed final consolidation of the full journey | Completed |
 
 
 ### Week 12 Achievements:

@@ -11,14 +11,15 @@ pre: " <b> 1.12. </b> "
 * Làm quen với machine learning, review kiến thức và chốt lộ trình.
 
 ### Các hoạt động chính:
-
-* 03/07/2026: AWS: SageMaker ML - tìm hiểu workflow machine learning trên AWS.
-* 04/07/2026: AWS: SageMaker Immersion Day 1 - thực hành theo kịch bản immersion day.
-* 05/07/2026: AWS: SageMaker Immersion Day 2 - hoàn thành phần thực hành còn lại.
-* 06/07/2026: AWS: Migration Review - nhìn lại bài học về di chuyển ứng dụng lên cloud.
-* 07/07/2026: AWS: Best Practices Review - củng cố best practices cho hệ thống.
-* 08/07/2026: AWS: Hands-on Review - ôn lại toàn bộ bài thực hành và kỹ năng thao tác.
-* 09/07/2026: AWS: Journey Finalization - tổng kết hành trình và hoàn thiện báo cáo.
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AWS: SageMaker ML | 03/07/2026 | 03/07/2026 | Tìm hiểu workflow machine learning trên AWS | Hoàn thành |
+| 2 | AWS: SageMaker Immersion Day 1 | 04/07/2026 | 04/07/2026 | Thực hành theo kịch bản immersion day | Hoàn thành |
+| 3 | AWS: SageMaker Immersion Day 2 | 05/07/2026 | 05/07/2026 | Hoàn thành phần thực hành còn lại | Hoàn thành |
+| 4 | AWS: Migration Review | 06/07/2026 | 06/07/2026 | Nhìn lại bài học về di chuyển ứng dụng lên cloud | Hoàn thành |
+| 5 | AWS: Best Practices Review | 07/07/2026 | 07/07/2026 | Củng cố best practices cho hệ thống | Hoàn thành |
+| 6 | AWS: Hands-on Review | 08/07/2026 | 08/07/2026 | Ôn lại toàn bộ bài thực hành và kỹ năng thao tác | Hoàn thành |
+| 7 | AWS: Journey Finalization | 09/07/2026 | 09/07/2026 | Tổng kết hành trình và hoàn thiện báo cáo | Hoàn thành |
 
 ### Kết quả đạt được tuần 12:
 
