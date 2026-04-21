@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
 **On this page**, you summarize a 12-week learning journey grouped by AWS topics delivered throughout the program.
 
 Each week below maps to a topic cluster in the AWS Cloud Journey, from account setup, networking, and infrastructure to security, containers, serverless, data, and machine learning.

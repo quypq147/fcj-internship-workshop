@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 **Trong trang này** bạn sẽ tóm tắt hành trình học tập trong 12 tuần, theo từng nhóm chủ đề AWS đã triển khai trong suốt khóa học.
 
 Mỗi tuần bên dưới phản ánh một cụm chủ đề trong lộ trình AWS Cloud Journey, từ nền tảng tài khoản, mạng, hạ tầng, bảo mật, container, serverless, dữ liệu cho đến machine learning.

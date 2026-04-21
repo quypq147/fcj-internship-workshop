@@ -5,9 +5,7 @@ weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 
 ### Week 1 Objectives:
@@ -18,6 +16,8 @@ pre: " <b> 1.1. </b> "
 ### Key activities:
 
 * 04/17/2026: AWS: Account & Budgets - created account baseline and practiced budget monitoring.
+    + Create AWS Account : Done
+    + 
 * 04/18/2026: AWS: Support & IAM - learned AWS support channels and IAM fundamentals.
 * 04/19/2026: AWS: VPC & EC2 - studied VPC networking and EC2 compute basics.
 * 04/20/2026: AWS: IAM Roles & Cloud9 - applied IAM roles for EC2 and explored Cloud9.

@@ -5,11 +5,6 @@ weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
-
 ### Mục tiêu tuần 9:
 
 * Làm việc với các công cụ phát triển web, quan sát hệ thống và triển khai ứng dụng.
