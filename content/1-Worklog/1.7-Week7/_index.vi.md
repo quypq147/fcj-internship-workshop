@@ -10,7 +10,7 @@ pre: " <b> 1.7. </b> "
 * Tập trung vào kiến trúc microservices, serverless và trải nghiệm phát triển ứng dụng.
 * Nhìn rõ hơn cách AWS hỗ trợ phát triển sản phẩm từ monolith sang kiến trúc hiện đại.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Microservices Migration | 29/05/2026 | 29/05/2026 | Phân tách ứng dụng monolith sang microservices | Hoàn thành |

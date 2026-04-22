@@ -10,7 +10,7 @@ pre: " <b> 1.11. </b> "
 * Chuyển sang nhóm chủ đề dữ liệu, analytics và kho dữ liệu.
 * Làm quen với các mô hình phân tích, BI và PostgreSQL nâng cao.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Data Lake Fundamentals | 26/06/2026 | 26/06/2026 | Tìm hiểu nền tảng data lake | Hoàn thành |

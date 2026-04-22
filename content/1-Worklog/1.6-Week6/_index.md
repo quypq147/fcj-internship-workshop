@@ -10,7 +10,7 @@ pre: " <b> 1.6. </b> "
 * Practice containerization, orchestration, and CI/CD for cloud applications.
 * Extend understanding of storage strategy and cost optimization.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Docker & ECS | 05/22/2026 | 05/22/2026 | Containerized applications and deployed on ECS | Completed |

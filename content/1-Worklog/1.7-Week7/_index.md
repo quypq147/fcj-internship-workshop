@@ -10,7 +10,7 @@ pre: " <b> 1.7. </b> "
 * Focus on microservices architecture and serverless development patterns.
 * Improve product-level thinking from monolith migration to event-driven design.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Microservices Migration | 05/29/2026 | 05/29/2026 | Reviewed migration from monolith to microservices | Completed |

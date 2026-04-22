@@ -10,7 +10,7 @@ pre: " <b> 1.10. </b> "
 * Làm quen với các nền tảng container và orchestration hiện đại.
 * Tìm hiểu cách AWS hỗ trợ triển khai ứng dụng trên ECS, EKS và OpenShift.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Lightsail Containers | 19/06/2026 | 19/06/2026 | Triển khai container trên nền tảng Lightsail | Hoàn thành |

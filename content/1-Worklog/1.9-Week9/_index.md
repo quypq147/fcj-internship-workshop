@@ -10,7 +10,7 @@ pre: " <b> 1.9. </b> "
 * Work on end-to-end web application patterns with visibility and tracing.
 * Compare serverless and platform-based deployment approaches.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Doc Mgmt CRUD & Amplify | 06/12/2026 | 06/12/2026 | Built CRUD workflows with Amplify support | Completed |

@@ -10,7 +10,7 @@ pre: " <b> 1.12. </b> "
 * Finalize the journey with ML basics and full-topic review.
 * Consolidate learning outcomes into a complete worklog summary.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: SageMaker ML | 07/03/2026 | 07/03/2026 | Learned ML workflow fundamentals on AWS | Completed |

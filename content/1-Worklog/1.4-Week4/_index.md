@@ -10,7 +10,7 @@ pre: " <b> 1.4. </b> "
 * Focus on security controls, service limits, and access management.
 * Practice tools that strengthen governance and protection on AWS.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Quotas & Environment | 05/08/2026 | 05/08/2026 | Reviewed service quotas and working environment setup | Completed |

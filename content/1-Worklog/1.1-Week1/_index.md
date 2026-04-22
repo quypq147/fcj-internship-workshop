@@ -13,7 +13,7 @@ pre: " <b> 1.1. </b> "
 * Get started with AWS accounts, budgeting, and foundational services.
 * Build baseline understanding for deeper hands-on labs in later weeks.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Account & Budgets | 04/17/2026 | 04/17/2026 | Created account baseline and practiced budget monitoring | Completed |

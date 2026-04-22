@@ -10,7 +10,7 @@ pre: " <b> 1.5. </b> "
 * Deepen security, networking integration, and high-availability design.
 * Practice enterprise-style reliability patterns for critical workloads.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Security & Patching | 05/15/2026 | 05/15/2026 | Practiced threat detection and patching flow | Completed |

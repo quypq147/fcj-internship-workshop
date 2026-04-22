@@ -10,7 +10,7 @@ pre: " <b> 1.4. </b> "
 * Tập trung vào bảo mật, giới hạn dịch vụ và kiểm soát truy cập.
 * Làm quen với các dịch vụ hỗ trợ quản trị an toàn trên AWS.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Quotas & Environment | 08/05/2026 | 08/05/2026 | Theo dõi giới hạn dịch vụ và chuẩn bị môi trường làm việc | Hoàn thành |

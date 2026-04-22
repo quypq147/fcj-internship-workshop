@@ -13,7 +13,7 @@ pre: " <b> 1.2. </b> "
 * Nắm được cách vận hành mạng, DNS và kết nối ứng dụng trên AWS.
 * Làm quen với các bài workshop liên quan đến kiến trúc đa tầng và phân phối nội dung.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Route 53 & CLI | 24/04/2026 | 24/04/2026 | Thực hành quản lý DNS bằng Route 53 và thao tác dịch vụ bằng CLI | Hoàn thành |

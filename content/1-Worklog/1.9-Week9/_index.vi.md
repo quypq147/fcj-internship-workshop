@@ -10,7 +10,7 @@ pre: " <b> 1.9. </b> "
 * Làm việc với các công cụ phát triển web, quan sát hệ thống và triển khai ứng dụng.
 * Hiểu các mô hình kết hợp giữa frontend, backend và hạ tầng truyền thống.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Doc Mgmt CRUD & Amplify | 12/06/2026 | 12/06/2026 | Xây dựng CRUD serverless và lưu trữ với Amplify | Hoàn thành |

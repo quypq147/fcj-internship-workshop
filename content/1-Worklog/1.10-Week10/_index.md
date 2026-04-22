@@ -10,7 +10,7 @@ pre: " <b> 1.10. </b> "
 * Explore modern container and orchestration platforms on AWS.
 * Compare ECS, EKS, and OpenShift implementation options.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Lightsail Containers | 06/19/2026 | 06/19/2026 | Deployed containers on Lightsail | Completed |

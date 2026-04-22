@@ -13,7 +13,7 @@ pre: " <b> 1.2. </b> "
 * Understand how networking, DNS, and content delivery work together on AWS.
 * Practice workshops related to migration and resilient application setup.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Route 53 & CLI | 04/24/2026 | 04/24/2026 | Practiced DNS management with Route 53 and CLI operations | Completed |

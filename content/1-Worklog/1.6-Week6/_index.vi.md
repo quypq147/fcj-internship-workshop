@@ -10,7 +10,7 @@ pre: " <b> 1.6. </b> "
 * Thực hành containerization, orchestration và CI/CD cho ứng dụng container.
 * Tìm hiểu thêm về storage và tối ưu chi phí vận hành.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Docker & ECS | 22/05/2026 | 22/05/2026 | Container hóa ứng dụng và chạy trên Amazon ECS | Hoàn thành |

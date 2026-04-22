@@ -10,7 +10,7 @@ pre: " <b> 1.3. </b> "
 * Strengthen IaC, systems management, and observability capabilities.
 * Learn to automate infrastructure provisioning and operations.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Lambda & Grafana | 05/01/2026 | 05/01/2026 | Explored serverless automation and monitoring dashboards | Completed |

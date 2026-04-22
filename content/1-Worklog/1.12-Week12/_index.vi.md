@@ -10,7 +10,7 @@ pre: " <b> 1.12. </b> "
 * Tổng kết hành trình học tập và hoàn thiện các chủ đề còn lại.
 * Làm quen với machine learning, review kiến thức và chốt lộ trình.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: SageMaker ML | 03/07/2026 | 03/07/2026 | Tìm hiểu workflow machine learning trên AWS | Hoàn thành |

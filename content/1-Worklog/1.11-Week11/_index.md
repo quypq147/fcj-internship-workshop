@@ -10,7 +10,7 @@ pre: " <b> 1.11. </b> "
 * Shift focus to data platform, analytics, and query workloads.
 * Build understanding of BI and advanced PostgreSQL use cases.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Data Lake Fundamentals | 06/26/2026 | 06/26/2026 | Learned data lake principles on AWS | Completed |

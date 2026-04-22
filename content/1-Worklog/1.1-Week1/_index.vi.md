@@ -10,7 +10,7 @@ pre: " <b> 1.1. </b> "
 * Làm quen với tài khoản AWS, cơ chế quản lý chi phí và các dịch vụ nền tảng.
 * Nắm được các dịch vụ cơ bản để chuẩn bị cho các bài thực hành sau.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Account & Budgets | 17/04/2026 | 17/04/2026 | Tạo tài khoản, làm quen AWS Budgets và cách theo dõi chi phí | Hoàn thành |

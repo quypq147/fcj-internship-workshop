@@ -10,7 +10,7 @@ pre: " <b> 1.3. </b> "
 * Làm quen với Infrastructure as Code, quản trị hệ thống và giám sát.
 * Biết cách dùng AWS để tự động hóa triển khai và vận hành.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Lambda & Grafana | 01/05/2026 | 01/05/2026 | Tìm hiểu serverless automation và giám sát nâng cao | Hoàn thành |

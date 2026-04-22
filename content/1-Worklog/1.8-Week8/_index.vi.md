@@ -10,7 +10,7 @@ pre: " <b> 1.8. </b> "
 * Xây dựng và vận hành backend serverless hoàn chỉnh.
 * Thực hành xác thực người dùng, nhắn tin và giám sát ứng dụng.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Book Store Backend | 05/06/2026 | 05/06/2026 | Xây dựng backend serverless cho hệ thống quản lý sách | Hoàn thành |

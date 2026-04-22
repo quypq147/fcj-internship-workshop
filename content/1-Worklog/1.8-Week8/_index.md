@@ -10,7 +10,7 @@ pre: " <b> 1.8. </b> "
 * Build and operate a complete serverless backend stack.
 * Practice authentication, messaging, deployment automation, and monitoring.
 
-### Key activities:
+### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Book Store Backend | 06/05/2026 | 06/05/2026 | Built a serverless backend foundation | Completed |

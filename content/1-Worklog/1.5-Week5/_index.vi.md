@@ -10,7 +10,7 @@ pre: " <b> 1.5. </b> "
 * Củng cố kỹ năng bảo vệ hạ tầng, kết nối mạng và tính sẵn sàng cao.
 * Thực hành các mô hình clustering, backup và messaging ở mức nâng cao.
 
-### Các hoạt động chính:
+### Các công việc cần triển khai trong tuần này:
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
 | 1 | AWS: Security & Patching | 15/05/2026 | 15/05/2026 | Bảo vệ hệ thống, cập nhật bản vá và giám sát rủi ro | Hoàn thành |
