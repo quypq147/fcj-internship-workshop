@@ -22,6 +22,50 @@ pre: " <b> 1.4. </b> "
 | 7 | AWS: Secrets & Firewall Mgr | 05/14/2026 | 05/14/2026 | Managed secrets and security policies at scale | Completed |
 
 
+### Daily Details
+
+#### Day 1 - AWS: Quotas & Environment
+
+* Reviewed service quotas and prepared the working environment before deeper labs.
+
+![Day 1 screenshot](/images/1-Worklog/1.4-Week4/day1.png)
+
+#### Day 2 - AWS: EBS Backup Automation
+
+* Automated snapshots and learned basic backup planning for EBS volumes.
+
+![Day 2 screenshot](/images/1-Worklog/1.4-Week4/day2.png)
+
+#### Day 3 - AWS: SSO & Permissions
+
+* Explored centralized identity with SSO and practiced permission assignment.
+
+![Day 3 screenshot](/images/1-Worklog/1.4-Week4/day3.png)
+
+#### Day 4 - AWS: IAM Policies & Sec Hub
+
+* Designed IAM policies and used Security Hub to review security posture.
+
+![Day 4 screenshot](/images/1-Worklog/1.4-Week4/day4.png)
+
+#### Day 5 - AWS: S3 Endpoints & WAF
+
+* Implemented private S3 access patterns and added application protection with WAF.
+
+![Day 5 screenshot](/images/1-Worklog/1.4-Week4/day5.png)
+
+#### Day 6 - AWS: Macie & KMS
+
+* Applied encryption with KMS and reviewed sensitive data discovery with Macie.
+
+![Day 6 screenshot](/images/1-Worklog/1.4-Week4/day6.png)
+
+#### Day 7 - AWS: Secrets & Firewall Mgr
+
+* Managed secrets and centralized security policies across multiple accounts.
+
+![Day 7 screenshot](/images/1-Worklog/1.4-Week4/day7.png)
+
 ### Week 4 Achievements:
 
 * Improved capability to design layered security controls.

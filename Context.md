@@ -35,3 +35,13 @@ pre: " <b> [Nhập số thứ tự chương]. </b> "
 4. [[Tên Bước Thực Hành 2]]([link-thu-muc-4]/)
 5. [[Phần Mở Rộng - Nếu có]]([link-thu-muc-5]/)
 6. [Dọn dẹp tài nguyên]([link-thu-muc-cleanup]/)
+
+#### Chi tiết từng ngày
+
+##### Ngày 1 - [Tên nội dung ngày 1]
+
+* [Mô tả chi tiết nội dung đã học trong ngày]
+* [Ghi chú kết quả hoặc điểm cần lưu ý]
+* Hình ảnh minh họa:
+
+![Hình minh họa ngày 1]([link-hinh-anh-ngay-1])

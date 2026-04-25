@@ -22,6 +22,50 @@ pre: " <b> 1.6. </b> "
 | 7 | AWS: Cost Visualization | 05/28/2026 | 05/28/2026 | Analyzed and visualized cloud costs | Completed |
 
 
+### Daily Details
+
+#### Day 1 - AWS: Docker & ECS
+
+* Containerized an application and deployed it on Amazon ECS.
+
+![Day 1 screenshot](/images/1-Worklog/1.6-Week6/day1.png)
+
+#### Day 2 - AWS: ECS IaC & CodePipeline
+
+* Automated ECS delivery using CDK and CodePipeline.
+
+![Day 2 screenshot](/images/1-Worklog/1.6-Week6/day2.png)
+
+#### Day 3 - AWS: Deployments & DevOps
+
+* Practiced release automation and basic DevOps delivery patterns.
+
+![Day 3 screenshot](/images/1-Worklog/1.6-Week6/day3.png)
+
+#### Day 4 - AWS: Storage Gateway & FSx
+
+* Explored hybrid storage and file storage options for Windows workloads.
+
+![Day 4 screenshot](/images/1-Worklog/1.6-Week6/day4.png)
+
+#### Day 5 - AWS: DynamoDB & Step Functions
+
+* Combined NoSQL storage with workflow orchestration.
+
+![Day 5 screenshot](/images/1-Worklog/1.6-Week6/day5.png)
+
+#### Day 6 - AWS: Storage Performance
+
+* Reviewed how storage choices affect performance and responsiveness.
+
+![Day 6 screenshot](/images/1-Worklog/1.6-Week6/day6.png)
+
+#### Day 7 - AWS: Cost Visualization
+
+* Analyzed and visualized cloud cost data to support optimization decisions.
+
+![Day 7 screenshot](/images/1-Worklog/1.6-Week6/day7.png)
+
 ### Week 6 Achievements:
 
 * Improved practical skills in container deployment and CI/CD implementation.

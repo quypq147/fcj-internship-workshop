@@ -22,6 +22,50 @@ pre: " <b> 1.10. </b> "
 | 7 | AWS: Red Hat OpenShift | 06/25/2026 | 06/25/2026 | Reviewed ROSA platform capabilities | Completed |
 
 
+### Daily Details
+
+#### Day 1 - AWS: Lightsail Containers
+
+* Deployed containers on Lightsail and compared the approach with ECS.
+
+![Day 1 screenshot](/images/1-Worklog/1.10-Week10/day1.png)
+
+#### Day 2 - AWS: ECS & Fargate
+
+* Ran container workloads without managing servers directly.
+
+![Day 2 screenshot](/images/1-Worklog/1.10-Week10/day2.png)
+
+#### Day 3 - AWS: ECS CDK
+
+* Modeled ECS infrastructure with CDK for repeatable deployment.
+
+![Day 3 screenshot](/images/1-Worklog/1.10-Week10/day3.png)
+
+#### Day 4 - AWS: ECS CI/CD
+
+* Built a CI/CD pipeline for ECS applications.
+
+![Day 4 screenshot](/images/1-Worklog/1.10-Week10/day4.png)
+
+#### Day 5 - AWS: EKS Getting Started
+
+* Learned the basic Kubernetes concepts behind Amazon EKS.
+
+![Day 5 screenshot](/images/1-Worklog/1.10-Week10/day5.png)
+
+#### Day 6 - AWS: EKS Blueprints
+
+* Designed EKS infrastructure and delivery flows using Blueprints.
+
+![Day 6 screenshot](/images/1-Worklog/1.10-Week10/day6.png)
+
+#### Day 7 - AWS: Red Hat OpenShift
+
+* Reviewed the ROSA platform and its role in the AWS container ecosystem.
+
+![Day 7 screenshot](/images/1-Worklog/1.10-Week10/day7.png)
+
 ### Week 10 Achievements:
 
 * Developed clearer understanding of container platform trade-offs on AWS.

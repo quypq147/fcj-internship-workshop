@@ -22,6 +22,50 @@ pre: " <b> 1.11. </b> "
 | 7 | AWS: Adv PostgreSQL Part 2 | 07/02/2026 | 07/02/2026 | Continued advanced database patterns | Completed |
 
 
+### Daily Details
+
+#### Day 1 - AWS: Data Lake Fundamentals
+
+* Studied the fundamentals of data lake architecture on AWS.
+
+![Day 1 screenshot](/images/1-Worklog/1.11-Week11/day1.png)
+
+#### Day 2 - AWS: Build Data Lake
+
+* Built a data lake with sample data and an initial storage structure.
+
+![Day 2 screenshot](/images/1-Worklog/1.11-Week11/day2.png)
+
+#### Day 3 - AWS: Analytics Overview & QuickSight
+
+* Explored analytics workflows and BI dashboards with QuickSight.
+
+![Day 3 screenshot](/images/1-Worklog/1.11-Week11/day3.png)
+
+#### Day 4 - AWS: Data Eng Immersion Day
+
+* Worked through scenarios designed for data engineering practice.
+
+![Day 4 screenshot](/images/1-Worklog/1.11-Week11/day4.png)
+
+#### Day 5 - AWS: Athena Analytics
+
+* Queried data with Athena for quick serverless analysis.
+
+![Day 5 screenshot](/images/1-Worklog/1.11-Week11/day5.png)
+
+#### Day 6 - AWS: Adv PostgreSQL Part 1
+
+* Practiced advanced PostgreSQL features and basic tuning ideas.
+
+![Day 6 screenshot](/images/1-Worklog/1.11-Week11/day6.png)
+
+#### Day 7 - AWS: Adv PostgreSQL Part 2
+
+* Continued the advanced PostgreSQL track and completed the final exercises.
+
+![Day 7 screenshot](/images/1-Worklog/1.11-Week11/day7.png)
+
 ### Week 11 Achievements:
 
 * Established a stronger end-to-end view of data and analytics on AWS.

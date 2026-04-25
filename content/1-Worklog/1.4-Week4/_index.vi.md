@@ -21,6 +21,50 @@ pre: " <b> 1.4. </b> "
 | 6 | AWS: Macie & KMS | 13/05/2026 | 13/05/2026 | Mã hóa dữ liệu và phát hiện dữ liệu nhạy cảm | Hoàn thành |
 | 7 | AWS: Secrets & Firewall Mgr | 14/05/2026 | 14/05/2026 | Quản lý bí mật và điều phối chính sách bảo mật đa tài khoản | Hoàn thành |
 
+### Chi tiết từng ngày
+
+#### Ngày 1 - AWS: Quotas & Environment
+
+* Kiểm tra giới hạn dịch vụ và chuẩn bị môi trường làm việc trước khi bắt đầu lab.
+
+![Hình minh họa ngày 1](/images/1-Worklog/1.4-Week4/day1.png)
+
+#### Ngày 2 - AWS: EBS Backup Automation
+
+* Tự động hóa snapshot và tìm hiểu cách lập kế hoạch sao lưu cho EBS.
+
+![Hình minh họa ngày 2](/images/1-Worklog/1.4-Week4/day2.png)
+
+#### Ngày 3 - AWS: SSO & Permissions
+
+* Làm quen với xác thực tập trung và cách gán quyền trong môi trường doanh nghiệp.
+
+![Hình minh họa ngày 3](/images/1-Worklog/1.4-Week4/day3.png)
+
+#### Ngày 4 - AWS: IAM Policies & Sec Hub
+
+* Thiết kế IAM policy và sử dụng Security Hub để rà soát mức độ an toàn.
+
+![Hình minh họa ngày 4](/images/1-Worklog/1.4-Week4/day4.png)
+
+#### Ngày 5 - AWS: S3 Endpoints & WAF
+
+* Thiết lập truy cập riêng tư vào S3 và thêm lớp bảo vệ ứng dụng bằng WAF.
+
+![Hình minh họa ngày 5](/images/1-Worklog/1.4-Week4/day5.png)
+
+#### Ngày 6 - AWS: Macie & KMS
+
+* Áp dụng mã hóa bằng KMS và phát hiện dữ liệu nhạy cảm với Macie.
+
+![Hình minh họa ngày 6](/images/1-Worklog/1.4-Week4/day6.png)
+
+#### Ngày 7 - AWS: Secrets & Firewall Mgr
+
+* Quản lý secrets và điều phối chính sách bảo mật trên nhiều tài khoản.
+
+![Hình minh họa ngày 7](/images/1-Worklog/1.4-Week4/day7.png)
+
 ### Kết quả đạt được tuần 4:
 
 * Hiểu được cách thiết kế bảo mật nhiều lớp trên AWS.

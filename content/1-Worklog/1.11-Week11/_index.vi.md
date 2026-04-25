@@ -21,6 +21,50 @@ pre: " <b> 1.11. </b> "
 | 6 | AWS: Adv PostgreSQL Part 1 | 01/07/2026 | 01/07/2026 | Thực hành PostgreSQL nâng cao phần 1 | Hoàn thành |
 | 7 | AWS: Adv PostgreSQL Part 2 | 02/07/2026 | 02/07/2026 | Tiếp tục phần 2 và hoàn thiện bài học | Hoàn thành |
 
+### Chi tiết từng ngày
+
+#### Ngày 1 - AWS: Data Lake Fundamentals
+
+* Tìm hiểu nền tảng data lake và vai trò của nó trong bài toán dữ liệu.
+
+![Hình minh họa ngày 1](/images/1-Worklog/1.11-Week11/day1.png)
+
+#### Ngày 2 - AWS: Build Data Lake
+
+* Thực hành xây dựng data lake với dữ liệu mẫu và cấu trúc lưu trữ cơ bản.
+
+![Hình minh họa ngày 2](/images/1-Worklog/1.11-Week11/day2.png)
+
+#### Ngày 3 - AWS: Analytics Overview & QuickSight
+
+* Xem tổng quan analytics và BI với QuickSight.
+
+![Hình minh họa ngày 3](/images/1-Worklog/1.11-Week11/day3.png)
+
+#### Ngày 4 - AWS: Data Eng Immersion Day
+
+* Thực hành theo các kịch bản dành cho kỹ sư dữ liệu.
+
+![Hình minh họa ngày 4](/images/1-Worklog/1.11-Week11/day4.png)
+
+#### Ngày 5 - AWS: Athena Analytics
+
+* Truy vấn dữ liệu serverless bằng Athena để phân tích nhanh.
+
+![Hình minh họa ngày 5](/images/1-Worklog/1.11-Week11/day5.png)
+
+#### Ngày 6 - AWS: Adv PostgreSQL Part 1
+
+* Thực hành các tính năng PostgreSQL nâng cao và tinh chỉnh cơ bản.
+
+![Hình minh họa ngày 6](/images/1-Worklog/1.11-Week11/day6.png)
+
+#### Ngày 7 - AWS: Adv PostgreSQL Part 2
+
+* Tiếp tục phần nâng cao để hoàn thiện kỹ năng làm việc với PostgreSQL.
+
+![Hình minh họa ngày 7](/images/1-Worklog/1.11-Week11/day7.png)
+
 ### Kết quả đạt được tuần 11:
 
 * Hiểu được bức tranh tổng thể của dữ liệu, phân tích và kho dữ liệu trên AWS.

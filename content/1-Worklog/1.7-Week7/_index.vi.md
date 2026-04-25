@@ -21,6 +21,50 @@ pre: " <b> 1.7. </b> "
 | 6 | AWS: DevAx Hands-on | 03/06/2026 | 03/06/2026 | Thực hành theo bộ bài DevAx chi tiết | Hoàn thành |
 | 7 | AWS: DevAx Review | 04/06/2026 | 04/06/2026 | Tổng hợp và củng cố kiến thức DevAx serverless | Hoàn thành |
 
+### Chi tiết từng ngày
+
+#### Ngày 1 - AWS: Microservices Migration
+
+* Xem cách phân tách ứng dụng monolith sang kiến trúc microservices.
+
+![Hình minh họa ngày 1](/images/1-Worklog/1.7-Week7/day1.png)
+
+#### Ngày 2 - AWS: Building Microservices
+
+* Thiết kế ranh giới dịch vụ, dữ liệu và giao tiếp giữa các microservice.
+
+![Hình minh họa ngày 2](/images/1-Worklog/1.7-Week7/day2.png)
+
+#### Ngày 3 - AWS: Event-Driven Arch
+
+* Làm quen tư duy kiến trúc hướng sự kiện và xử lý bất đồng bộ.
+
+![Hình minh họa ngày 3](/images/1-Worklog/1.7-Week7/day3.png)
+
+#### Ngày 4 - AWS: SPA Auth
+
+* Tích hợp xác thực cho ứng dụng một trang (SPA).
+
+![Hình minh họa ngày 4](/images/1-Worklog/1.7-Week7/day4.png)
+
+#### Ngày 5 - AWS: AI Services
+
+* Khám phá cách tích hợp các dịch vụ AI của AWS vào ứng dụng.
+
+![Hình minh họa ngày 5](/images/1-Worklog/1.7-Week7/day5.png)
+
+#### Ngày 6 - AWS: DevAx Hands-on
+
+* Hoàn thành các bài tập DevAx để củng cố quy trình triển khai serverless.
+
+![Hình minh họa ngày 6](/images/1-Worklog/1.7-Week7/day6.png)
+
+#### Ngày 7 - AWS: DevAx Review
+
+* Tổng hợp lại các bài học kiến trúc và triển khai trong tuần.
+
+![Hình minh họa ngày 7](/images/1-Worklog/1.7-Week7/day7.png)
+
 ### Kết quả đạt được tuần 7:
 
 * Hiểu được cách tổ chức ứng dụng theo kiến trúc microservices và event-driven.

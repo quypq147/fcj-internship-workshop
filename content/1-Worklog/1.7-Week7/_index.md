@@ -22,6 +22,50 @@ pre: " <b> 1.7. </b> "
 | 7 | AWS: DevAx Review | 06/04/2026 | 06/04/2026 | Consolidated serverless architecture lessons | Completed |
 
 
+### Daily Details
+
+#### Day 1 - AWS: Microservices Migration
+
+* Reviewed how to break a monolith into microservices.
+
+![Day 1 screenshot](/images/1-Worklog/1.7-Week7/day1.png)
+
+#### Day 2 - AWS: Building Microservices
+
+* Designed service boundaries, data flow, and communication between services.
+
+![Day 2 screenshot](/images/1-Worklog/1.7-Week7/day2.png)
+
+#### Day 3 - AWS: Event-Driven Arch
+
+* Built event-driven thinking around asynchronous service interaction.
+
+![Day 3 screenshot](/images/1-Worklog/1.7-Week7/day3.png)
+
+#### Day 4 - AWS: SPA Auth
+
+* Integrated authentication for a single-page application workflow.
+
+![Day 4 screenshot](/images/1-Worklog/1.7-Week7/day4.png)
+
+#### Day 5 - AWS: AI Services
+
+* Explored where AWS AI services can fit into application features.
+
+![Day 5 screenshot](/images/1-Worklog/1.7-Week7/day5.png)
+
+#### Day 6 - AWS: DevAx Hands-on
+
+* Completed hands-on DevAx exercises and reinforced serverless delivery flow.
+
+![Day 6 screenshot](/images/1-Worklog/1.7-Week7/day6.png)
+
+#### Day 7 - AWS: DevAx Review
+
+* Consolidated the week's architecture and implementation lessons.
+
+![Day 7 screenshot](/images/1-Worklog/1.7-Week7/day7.png)
+
 ### Week 7 Achievements:
 
 * Built stronger understanding of microservices and event-driven architecture.

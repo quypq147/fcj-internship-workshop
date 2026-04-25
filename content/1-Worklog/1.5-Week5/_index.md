@@ -22,6 +22,50 @@ pre: " <b> 1.5. </b> "
 | 7 | AWS: SQL Server HA 2022 | 05/21/2026 | 05/21/2026 | Compared and improved HA setup on newer version | Completed |
 
 
+### Daily Details
+
+#### Day 1 - AWS: Security & Patching
+
+* Reviewed security monitoring and the process for keeping systems patched.
+
+![Day 1 screenshot](/images/1-Worklog/1.5-Week5/day1.png)
+
+#### Day 2 - AWS: Backup & VPC Peering
+
+* Connected backup planning with network design by using VPC peering scenarios.
+
+![Day 2 screenshot](/images/1-Worklog/1.5-Week5/day2.png)
+
+#### Day 3 - AWS: Transit GW & Messaging
+
+* Studied centralized routing with Transit Gateway and basic messaging flows.
+
+![Day 3 screenshot](/images/1-Worklog/1.5-Week5/day3.png)
+
+#### Day 4 - AWS: EBS Multi-Attach
+
+* Tested shared storage behavior and the limits of EBS Multi-Attach.
+
+![Day 4 screenshot](/images/1-Worklog/1.5-Week5/day4.png)
+
+#### Day 5 - AWS: Windows Clustering
+
+* Reviewed failover clustering ideas for Windows Server workloads.
+
+![Day 5 screenshot](/images/1-Worklog/1.5-Week5/day5.png)
+
+#### Day 6 - AWS: SQL Server HA 2019
+
+* Practiced high availability concepts for SQL Server deployment on AWS.
+
+![Day 6 screenshot](/images/1-Worklog/1.5-Week5/day6.png)
+
+#### Day 7 - AWS: SQL Server HA 2022
+
+* Compared HA setup improvements on the newer SQL Server version.
+
+![Day 7 screenshot](/images/1-Worklog/1.5-Week5/day7.png)
+
 ### Week 5 Achievements:
 
 * Strengthened understanding of resilient architecture for enterprise workloads.

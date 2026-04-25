@@ -22,6 +22,50 @@ pre: " <b> 1.3. </b> "
 | 7 | AWS: Optimization & Monitoring | 05/07/2026 | 05/07/2026 | Tuned resources and monitoring strategy | Completed |
 
 
+### Daily Details
+
+#### Day 1 - AWS: Lambda & Grafana
+
+* Explored serverless automation and built an initial monitoring view with Grafana.
+
+![Day 1 screenshot](/images/1-Worklog/1.3-Week3/day1.png)
+
+#### Day 2 - AWS: CloudWatch Advanced
+
+* Practiced advanced observability with logs, metrics, alarms, and dashboards.
+
+![Day 2 screenshot](/images/1-Worklog/1.3-Week3/day2.png)
+
+#### Day 3 - AWS: Resource Tags & IAM
+
+* Used tags and IAM policies together to organize resources and tighten access control.
+
+![Day 3 screenshot](/images/1-Worklog/1.3-Week3/day3.png)
+
+#### Day 4 - AWS: Systems Manager
+
+* Managed remote systems with Session Manager and reviewed operational tooling in SSM.
+
+![Day 4 screenshot](/images/1-Worklog/1.3-Week3/day4.png)
+
+#### Day 5 - AWS: CloudFormation & CDK
+
+* Provisioned infrastructure as code using CloudFormation and AWS CDK.
+
+![Day 5 screenshot](/images/1-Worklog/1.3-Week3/day5.png)
+
+#### Day 6 - AWS: IaC Advanced
+
+* Improved CDK design, deployment structure, and repeatable infrastructure workflows.
+
+![Day 6 screenshot](/images/1-Worklog/1.3-Week3/day6.png)
+
+#### Day 7 - AWS: Optimization & Monitoring
+
+* Tuned resource usage and reviewed how billing, monitoring, and performance relate.
+
+![Day 7 screenshot](/images/1-Worklog/1.3-Week3/day7.png)
+
 ### Week 3 Achievements:
 
 * Built a practical base in infrastructure automation and operations.

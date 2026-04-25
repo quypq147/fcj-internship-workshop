@@ -21,6 +21,50 @@ pre: " <b> 1.3. </b> "
 | 6 | AWS: IaC Advanced | 06/05/2026 | 06/05/2026 | Thực hành nâng cao với CDK và mô hình hạ tầng dạng mã | Hoàn thành |
 | 7 | AWS: Optimization & Monitoring | 07/05/2026 | 07/05/2026 | Tối ưu tài nguyên, giám sát mạng và quản lý billing | Hoàn thành |
 
+### Chi tiết từng ngày
+
+#### Ngày 1 - AWS: Lambda & Grafana
+
+* Khám phá tự động hóa serverless và dựng bảng theo dõi ban đầu với Grafana.
+
+![Hình minh họa ngày 1](/images/1-Worklog/1.3-Week3/day1.png)
+
+#### Ngày 2 - AWS: CloudWatch Advanced
+
+* Thực hành giám sát nâng cao với log, metric, alarm và dashboard.
+
+![Hình minh họa ngày 2](/images/1-Worklog/1.3-Week3/day2.png)
+
+#### Ngày 3 - AWS: Resource Tags & IAM
+
+* Kết hợp tagging và IAM policy để quản lý tài nguyên và kiểm soát truy cập.
+
+![Hình minh họa ngày 3](/images/1-Worklog/1.3-Week3/day3.png)
+
+#### Ngày 4 - AWS: Systems Manager
+
+* Quản lý hệ thống từ xa bằng Session Manager và các công cụ vận hành của SSM.
+
+![Hình minh họa ngày 4](/images/1-Worklog/1.3-Week3/day4.png)
+
+#### Ngày 5 - AWS: CloudFormation & CDK
+
+* Triển khai hạ tầng dưới dạng mã bằng CloudFormation và AWS CDK.
+
+![Hình minh họa ngày 5](/images/1-Worklog/1.3-Week3/day5.png)
+
+#### Ngày 6 - AWS: IaC Advanced
+
+* Cải thiện cấu trúc CDK, quy trình triển khai và khả năng tái sử dụng hạ tầng.
+
+![Hình minh họa ngày 6](/images/1-Worklog/1.3-Week3/day6.png)
+
+#### Ngày 7 - AWS: Optimization & Monitoring
+
+* Tối ưu tài nguyên và xem cách chi phí, hiệu năng và giám sát liên kết với nhau.
+
+![Hình minh họa ngày 7](/images/1-Worklog/1.3-Week3/day7.png)
+
 ### Kết quả đạt được tuần 3:
 
 * Hiểu cách AWS hỗ trợ tự động hóa hạ tầng và vận hành.

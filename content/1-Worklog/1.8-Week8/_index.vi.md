@@ -21,6 +21,50 @@ pre: " <b> 1.8. </b> "
 | 6 | AWS: AppSync GraphQL | 10/06/2026 | 10/06/2026 | Xây dựng API GraphQL với AppSync | Hoàn thành |
 | 7 | AWS: Study Group Catch-up | 11/06/2026 | 11/06/2026 | Ôn tập và bù kiến thức còn thiếu | Hoàn thành |
 
+### Chi tiết từng ngày
+
+#### Ngày 1 - AWS: Book Store Backend
+
+* Xây dựng backend serverless cho bài toán quản lý sách.
+
+![Hình minh họa ngày 1](/images/1-Worklog/1.8-Week8/day1.png)
+
+#### Ngày 2 - AWS: SAM & Cognito
+
+* Triển khai bằng SAM và tích hợp xác thực người dùng với Cognito.
+
+![Hình minh họa ngày 2](/images/1-Worklog/1.8-Week8/day2.png)
+
+#### Ngày 3 - AWS: SSL & SNS/SQS
+
+* Cấu hình custom domain, SSL và cơ chế nhắn tin theo sự kiện.
+
+![Hình minh họa ngày 3](/images/1-Worklog/1.8-Week8/day3.png)
+
+#### Ngày 4 - AWS: Serverless CI/CD
+
+* Tự động hóa pipeline phát hành cho ứng dụng serverless.
+
+![Hình minh họa ngày 4](/images/1-Worklog/1.8-Week8/day4.png)
+
+#### Ngày 5 - AWS: Serverless Monitoring
+
+* Giám sát log, metric và cảnh báo để theo dõi hệ thống tốt hơn.
+
+![Hình minh họa ngày 5](/images/1-Worklog/1.8-Week8/day5.png)
+
+#### Ngày 6 - AWS: AppSync GraphQL
+
+* Xây dựng API GraphQL với AppSync và hiểu luồng dữ liệu cơ bản.
+
+![Hình minh họa ngày 6](/images/1-Worklog/1.8-Week8/day6.png)
+
+#### Ngày 7 - AWS: Study Group Catch-up
+
+* Ôn tập và bù các phần kiến thức còn thiếu trong tuần.
+
+![Hình minh họa ngày 7](/images/1-Worklog/1.8-Week8/day7.png)
+
 ### Kết quả đạt được tuần 8:
 
 * Biết cách ghép các dịch vụ serverless thành một backend hoàn chỉnh.

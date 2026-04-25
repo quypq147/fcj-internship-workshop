@@ -22,6 +22,50 @@ pre: " <b> 1.8. </b> "
 | 7 | AWS: Study Group Catch-up | 06/11/2026 | 06/11/2026 | Consolidated pending learning items | Completed |
 
 
+### Daily Details
+
+#### Day 1 - AWS: Book Store Backend
+
+* Built the foundation for a serverless backend used to manage book data.
+
+![Day 1 screenshot](/images/1-Worklog/1.8-Week8/day1.png)
+
+#### Day 2 - AWS: SAM & Cognito
+
+* Deployed the stack with SAM and integrated user authentication with Cognito.
+
+![Day 2 screenshot](/images/1-Worklog/1.8-Week8/day2.png)
+
+#### Day 3 - AWS: SSL & SNS/SQS
+
+* Configured a custom domain, SSL, and event-driven messaging using SNS/SQS.
+
+![Day 3 screenshot](/images/1-Worklog/1.8-Week8/day3.png)
+
+#### Day 4 - AWS: Serverless CI/CD
+
+* Automated the release pipeline for the serverless application.
+
+![Day 4 screenshot](/images/1-Worklog/1.8-Week8/day4.png)
+
+#### Day 5 - AWS: Serverless Monitoring
+
+* Reviewed logs, metrics, and alarms to monitor the serverless system.
+
+![Day 5 screenshot](/images/1-Worklog/1.8-Week8/day5.png)
+
+#### Day 6 - AWS: AppSync GraphQL
+
+* Built a GraphQL API with AppSync and learned how data flows through the service.
+
+![Day 6 screenshot](/images/1-Worklog/1.8-Week8/day6.png)
+
+#### Day 7 - AWS: Study Group Catch-up
+
+* Revisited pending lessons and closed learning gaps from the week.
+
+![Day 7 screenshot](/images/1-Worklog/1.8-Week8/day7.png)
+
 ### Week 8 Achievements:
 
 * Combined multiple serverless services into a cohesive backend solution.

@@ -22,6 +22,50 @@ pre: " <b> 1.9. </b> "
 | 7 | AWS: WordPress | 06/18/2026 | 06/18/2026 | Reviewed WordPress deployment on EC2 | Completed |
 
 
+### Daily Details
+
+#### Day 1 - AWS: Doc Mgmt CRUD & Amplify
+
+* Built a serverless CRUD flow for document management and used Amplify support.
+
+![Day 1 screenshot](/images/1-Worklog/1.9-Week9/day1.png)
+
+#### Day 2 - AWS: API Gateway & SAM
+
+* Connected the frontend to API Gateway and deployed the backend with SAM.
+
+![Day 2 screenshot](/images/1-Worklog/1.9-Week9/day2.png)
+
+#### Day 3 - AWS: CloudFront & Search
+
+* Set up CDN delivery and added a search feature to the web application.
+
+![Day 3 screenshot](/images/1-Worklog/1.9-Week9/day3.png)
+
+#### Day 4 - AWS: X-Ray Tracing
+
+* Traced distributed requests with X-Ray and CloudWatch to improve debugging.
+
+![Day 4 screenshot](/images/1-Worklog/1.9-Week9/day4.png)
+
+#### Day 5 - AWS: Web App Workshop
+
+* Practiced building a serverless API and chat application.
+
+![Day 5 screenshot](/images/1-Worklog/1.9-Week9/day5.png)
+
+#### Day 6 - AWS: Elastic Beanstalk
+
+* Deployed a Node.js app and connected it to a CI/CD flow with Beanstalk.
+
+![Day 6 screenshot](/images/1-Worklog/1.9-Week9/day6.png)
+
+#### Day 7 - AWS: WordPress
+
+* Reviewed the WordPress architecture on EC2 and the basic operational flow.
+
+![Day 7 screenshot](/images/1-Worklog/1.9-Week9/day7.png)
+
 ### Week 9 Achievements:
 
 * Improved capability to build integrated web workloads on AWS.

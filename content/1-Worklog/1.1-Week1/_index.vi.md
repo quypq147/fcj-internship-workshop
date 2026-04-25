@@ -21,6 +21,64 @@ pre: " <b> 1.1. </b> "
 | 6 | AWS: Lightsail | 22/04/2026 | 22/04/2026 | Tìm hiểu cách triển khai dịch vụ đơn giản bằng Lightsail | Hoàn thành |
 | 7 | AWS: Auto Scaling & CloudWatch | 23/04/2026 | 23/04/2026 | Giám sát hệ thống bằng CloudWatch và tự động mở rộng bằng Auto Scaling | Hoàn thành |
 
+### Chi tiết từng ngày
+
+#### Ngày 1 - AWS: Account & Budgets
+
+* Tạo tài khoản AWS, kiểm tra bảng điều khiển Billing và thiết lập ngân sách ban đầu.
+* Làm quen với cách theo dõi chi phí và nhận biết các khu vực phát sinh sử dụng dịch vụ.
+* Hình ảnh minh họa:
+
+![Hình minh họa ngày 1](../../images/1-Worklog/1.1-Week1/day1.png)
+
+#### Ngày 2 - AWS: Support & IAM
+
+* Tìm hiểu các gói hỗ trợ AWS và cách chọn kênh hỗ trợ phù hợp.
+* Thực hành tạo người dùng, nhóm và quyền IAM cơ bản.
+* Hình ảnh minh họa:
+
+![Hình minh họa ngày 2](../../images/1-Worklog/1.1-Week1/day2.png)
+
+#### Ngày 3 - AWS: VPC & EC2
+
+* Nắm cấu trúc VPC, subnet, route table và Internet Gateway.
+* Khởi tạo EC2 và quan sát cách instance kết nối vào mạng riêng.
+* Hình ảnh minh họa:
+
+![Hình minh họa ngày 3](../../images/1-Worklog/1.1-Week1/day3.png)
+
+#### Ngày 4 - AWS: IAM Roles & Cloud9
+
+* Gán IAM Role cho EC2 để truy cập tài nguyên an toàn hơn.
+* Thực hành làm việc trên Cloud9 để chuẩn bị cho các buổi lab sau.
+* Hình ảnh minh họa:
+
+![Hình minh họa ngày 4](../../images/1-Worklog/1.1-Week1/day4.png)
+
+#### Ngày 5 - AWS: S3 & RDS
+
+* Tạo bucket S3 và thử các thao tác upload, download và phân quyền truy cập.
+* Làm việc với RDS để hiểu cách triển khai cơ sở dữ liệu được quản lý.
+* Hình ảnh minh họa:
+
+![Hình minh họa ngày 5](../../images/1-Worklog/1.1-Week1/day5.png)
+
+#### Ngày 6 - AWS: Lightsail
+
+* Khám phá giao diện đơn giản của Lightsail và cách tạo tài nguyên nhanh.
+* So sánh Lightsail với các dịch vụ AWS có độ linh hoạt cao hơn.
+* Hình ảnh minh họa:
+
+![Hình minh họa ngày 6](../../images/1-Worklog/1.1-Week1/day6.png)
+
+#### Ngày 7 - AWS: Auto Scaling & CloudWatch
+
+* Theo dõi metric, log và cảnh báo trong CloudWatch.
+* Tìm hiểu cách Auto Scaling phản ứng với tải hệ thống.
+* Hình ảnh minh họa:
+
+![Hình minh họa ngày 7](../../images/1-Worklog/1.1-Week1/day7.png)
+
 ### Kết quả đạt được tuần 1:
 
 * Hiểu được cách tổ chức tài khoản AWS, chi phí và hỗ trợ kỹ thuật.
