@@ -71,3 +71,26 @@ pre: " <b> 1.12. </b> "
 * Built baseline understanding of ML capabilities with SageMaker.
 * Completed end-to-end review across platform, security, data, and app tracks.
 * Finalized a coherent 12-week cloud learning narrative.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn Machine Learning on AWS  
+    
+  - Practice:  
+    
+  + Machine Learning Essentials  
+    
+  + Machine Learning with Amazon SageMaker (2026-03-07T00:00:00.000 → 2026-05-07T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn Advanced ML & Complete Program  
+    
+  - Practice:  
+    
+  + SageMaker Immersion Day  
+    
+  + Final Review & Internship Report Preparation (2026-06-07T00:00:00.000 → 2026-09-07T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/
+
+<!-- END EXCEL PROGRESS -->

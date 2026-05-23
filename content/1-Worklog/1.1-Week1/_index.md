@@ -73,3 +73,58 @@ pre: " <b> 1.1. </b> "
 * Built a clear foundation in AWS account, IAM, networking, compute, and storage.
 * Connected budgeting and monitoring concepts to day-to-day cloud operations.
 * Prepared for deeper architecture, security, and automation topics.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn about AWS Accounts, Budgets & IAM  
+    
+  - Practice:  
+    
+  + Creating Your First AWS Account : Done  
+    
+  + Managing Costs with AWS Budgets : Done  
+    
+  + Getting Help with AWS Support : Done  
+    
+  + Access Management with IAM : Done (17/04/2026 → 18/04/2026) [Done]  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn about Networking & Compute Essentials  
+    
+  - Practice:  
+    
+  + Networking Essentials with Amazon VPC:Done  
+    
+  + Compute Essentials with Amazon EC2:Done  
+    
+  + Instance Profiling with IAM Roles for EC2:Done  
+    
+  + Cloud Development with AWS Cloud9:Done (19/04/2026 → 20/04/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn about Storage, Databases & Lightsail  
+    
+  - Practice:  
+    
+  + Static Website Hosting with Amazon S3:Done  
+    
+  + Database Essentials with Amazon RDS:Done  
+    
+  + Simplified Computing with Amazon Lightsail:Done  
+    
+  + Container Deployment with Lightsail Containers:Done (21/04/2026 → 22/04/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn about Scaling, Monitoring & CLI  
+    
+  - Practice:  
+    
+  + Scaling Applications with EC2 Auto Scaling:Done  
+    
+  + Monitoring with Amazon CloudWatch:Done  
+    
+  + Hybrid DNS Management with Amazon Route 53:Done  
+    
+  + Command Line Operations with AWS CLI:Done (23/04/2026 → 23/04/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+
+<!-- END EXCEL PROGRESS -->

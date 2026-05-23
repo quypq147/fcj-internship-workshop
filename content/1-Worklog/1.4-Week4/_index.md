@@ -71,3 +71,44 @@ pre: " <b> 1.4. </b> "
 * Improved capability to design layered security controls.
 * Practiced IAM, KMS, Macie, WAF, and Security Hub in realistic scenarios.
 * Built stronger awareness of governance and compliance requirements.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn Infrastructure as Code (IaC)  
+    
+  - Practice:  
+    
+  + Infrastructure as Code with AWS CloudFormation:Done  
+    
+  + Cloud Development Kit (AWS CDK) Essentials:Done  
+    
+  + AWS CDK Advanced:Done  
+    
+  + Infrastructure as Code Workshop Series:Done (2026-08-05T00:00:00.000 → 2026-10-05T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
+- - Learn Cost & Network Optimization  
+    
+  - Practice:  
+    
+  + Right-Sizing with EC2 Resource Optimization:Done  
+    
+  + Network Monitoring with VPC Flow Logs:Done  
+    
+  + Billing Console Delegation & Managing Quotas:Done (2026-11-05T00:00:00.000 → 2026-12-05T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
+- - Learn Cost Management & EBS Backups  
+    
+  - Practice:  
+    
+  + Cost and Usage Management:Done  
+    
+  + Snapshot Automation with Amazon EBS Lifecycle:Done  
+    
+  + Anomaly Detection for EBS Backups:Done  
+    
+  + Development Environment with Toolkit for VS Code:Done (13/05/2026 → 14/05/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
+
+<!-- END EXCEL PROGRESS -->

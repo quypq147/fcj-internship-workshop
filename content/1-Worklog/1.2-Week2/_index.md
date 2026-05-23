@@ -74,3 +74,38 @@ pre: " <b> 1.2. </b> "
 * Gained practical understanding of DNS, CDN, caching, and network architecture.
 * Connected migration and disaster recovery concepts to real deployment scenarios.
 * Improved confidence in operating cross-service workflows.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn about NoSQL & Caching  
+    
+  - Practice:  
+    
+  + NoSQL Database Essentials with Amazon DynamoDB:Done  
+    
+  + In-Memory Caching with Amazon ElastiCache:Done  
+    
+  + Networking on AWS Workshop:Done (24/04/2026 → 25/04/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn about Content Delivery & Edge Computing  
+    
+  - Practice:  
+    
+  + Content Delivery with Amazon CloudFront:Done  
+    
+  + Edge Computing with CloudFront and Lambda@Edge:Done (26/04/2026 → 27/04/2026)  
+Reference: https://000094.awsstudygroup.com/ https://000130.awsstudygroup.com/
+- - Learn about Windows Workloads & HA Architecture  
+    
+  - Practice:  
+    
+  + Windows Workloads on AWS:Done  
+    
+  + Directory Services with AWS Managed Microsoft AD:Done  
+    
+  + Building Highly Available Web Applications:Done (28/04/2026 → 30/04/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+
+<!-- END EXCEL PROGRESS -->

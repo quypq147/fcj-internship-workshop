@@ -71,3 +71,30 @@ pre: " <b> 1.11. </b> "
 * Established a stronger end-to-end view of data and analytics on AWS.
 * Connected Athena, QuickSight, and PostgreSQL usage patterns effectively.
 * Improved readiness for larger-scale data workload design.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn Business Intelligence & Serverless Analytics  
+    
+  - Practice:  
+    
+  + Data Analytics Services Overview  
+    
+  + Business Intelligence with Amazon QuickSight  
+    
+  + Serverless Analytics with Amazon Athena (26/06/2026 → 28/06/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn Data Engineering & Advanced DBs  
+    
+  - Practice:  
+    
+  + Data Engineering Immersion Day  
+    
+  + Advanced PostgreSQL on AWS - Part 1  
+    
+  + Advanced PostgreSQL on AWS - Part 2 (29/06/2026 → 2026-02-07T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/
+
+<!-- END EXCEL PROGRESS -->

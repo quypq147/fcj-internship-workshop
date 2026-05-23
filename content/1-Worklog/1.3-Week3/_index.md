@@ -71,3 +71,42 @@ pre: " <b> 1.3. </b> "
 * Built a practical base in infrastructure automation and operations.
 * Improved governance and visibility across resources.
 * Became more effective in deploying and managing AWS environments.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn Migration Strategies & Disaster Recovery  
+    
+  - Practice:  
+    
+  + VM Migration with AWS VM Import/Export:Done  
+    
+  + Database Migration with DMS and SCT:Done  
+    
+  + Disaster Recovery with AWS Elastic Disaster Recovery:Done (2026-01-05T00:00:00.000 → 2026-02-05T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn Serverless Automation & Adv Monitoring  
+    
+  - Practice:  
+    
+  + Serverless Automation with AWS Lambda:Done  
+    
+  + Advanced Monitoring with CloudWatch and Grafana:Done  
+    
+  + CloudWatch Advanced Workshop:Done (2026-03-05T00:00:00.000 → 2026-04-05T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn Resource Management & Systems Manager  
+    
+  - Practice:  
+    
+  + Resource Organization with Tags and Resource Groups:Done  
+    
+  + Access Control with IAM and Resource Tags:Done  
+    
+  + Systems Management with AWS Systems Manager:Done  
+    
+  + Remote Server Access with Session Manager:Done (2026-05-05T00:00:00.000 → 2026-07-05T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/
+
+<!-- END EXCEL PROGRESS -->

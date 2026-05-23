@@ -71,3 +71,34 @@ pre: " <b> 1.8. </b> "
 * Combined multiple serverless services into a cohesive backend solution.
 * Improved understanding of authentication, eventing, and API integration.
 * Built stronger operational awareness for serverless production workloads.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn Serverless Doc Mgmt System Series  
+    
+  - Practice:  
+    
+  + Building Serverless CRUD (Lambda/DynamoDB)  
+    
+  + Serverless Storage/Auth (Amplify) & Frontend Integration  
+    
+  + DMS Deployment (SAM) & Content Delivery (CloudFront)  
+    
+  + Adding Search, DevOps for DMS & Distributed Tracing (2026-05-06T00:00:00.000 → 2026-07-06T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn Web Apps, Beanstalk & WordPress  
+    
+  - Practice:  
+    
+  + Serverless Web App Workshop & Chat Application  
+    
+  + Deploying Node.js Apps (Elastic Beanstalk Workshop)  
+    
+  + CI/CD with Elastic Beanstalk and CDK Pipelines  
+    
+  + WordPress Architecture on AWS & Running on EC2 (2026-08-06T00:00:00.000 → 2026-11-06T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/
+
+<!-- END EXCEL PROGRESS -->

@@ -71,3 +71,48 @@ pre: " <b> 1.6. </b> "
 * Improved practical skills in container deployment and CI/CD implementation.
 * Connected architecture choices with storage and cost behavior.
 * Developed stronger judgment on scalable and efficient platform design.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn Reliability & Networking  
+    
+  - Practice:  
+    
+  + Data Protection with AWS Backup:Done  
+    
+  + Network Integration with VPC Peering:Done  
+    
+  + Centralized Network Management with Transit Gateway:Done  
+    
+  + Messaging Systems with SQS and SNS:Done (22/05/2026 → 23/05/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn Database HA & Failover  
+    
+  - Practice:  
+    
+  + Shared Storage with Amazon EBS Multi-Attach  
+    
+  + Database High Availability with EBS and Systems Manager  
+    
+  + Windows Server Failover Clustering on AWS  
+    
+  + SQL Server High Availability on AWS (2019 & 2022) (24/05/2026 → 25/05/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn Performance Optimization & Cost Management  
+    
+  - Practice:  
+    
+  + Container Orchestration (Docker, ECS) & IaC for ECS  
+    
+  + Automated Deployments (CodePipeline, DevOps)  
+    
+  + Hybrid/Windows Storage (Storage Gateway, FSx)  
+    
+  + Workflow Orchestration (Step Functions) & Adv DynamoDB  
+    
+  + Cost Savings Plans, Athena Analytics & Perf Workshop (26/05/2026 → 28/05/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+
+<!-- END EXCEL PROGRESS -->

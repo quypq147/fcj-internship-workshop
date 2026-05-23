@@ -71,3 +71,30 @@ pre: " <b> 1.10. </b> "
 * Developed clearer understanding of container platform trade-offs on AWS.
 * Improved deployment patterns across ECS, EKS, and managed options.
 * Built practical context for platform selection by workload needs.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn Amazon EKS & OpenShift (ROSA)  
+    
+  - Practice:  
+    
+  + Getting Started with Amazon EKS  
+    
+  + Infrastructure as Code with EKS Blueprints for CDK  
+    
+  + CI/CD for EKS Applications  
+    
+  + Red Hat OpenShift Service on AWS (ROSA) (19/06/2026 → 22/06/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn Data Lake Fundamentals  
+    
+  - Practice:  
+    
+  + Data Lake Fundamentals on AWS  
+    
+  + Building a Data Lake with Your Own Data (23/06/2026 → 25/06/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+
+<!-- END EXCEL PROGRESS -->

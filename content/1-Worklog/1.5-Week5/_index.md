@@ -71,3 +71,50 @@ pre: " <b> 1.5. </b> "
 * Strengthened understanding of resilient architecture for enterprise workloads.
 * Connected security operations with backup, networking, and HA design.
 * Improved readiness for production-grade deployment decisions.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn Identity & Access Management  
+    
+  - Practice:  
+    
+  + Identity Federation with AWS Single Sign-On:Done  
+    
+  + Permission Management with IAM Boundaries:Done  
+    
+  + Access Control with IAM Policies and Conditions:Done  
+    
+  + Security Compliance with AWS Security Hub:Done (15/05/2026 → 16/05/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
+- - Learn Data & Application Protection  
+    
+  - Practice:  
+    
+  + Linking Virtual Private Clouds (VPCs) with VPC Peering:Done  
+    
+  + Securing Applications and APIs with Web Application Firewall (AWS WAF):Done  
+    
+  + Key Management with Key Management Service (AWS KMS):Done  
+    
+  + Data Protection with Amazon Macie:Done  
+    
+  + Credentials Management with AWS Secrets Manager:Done (17/05/2026 → 19/05/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
+- - Learn Security Governance & Threat Detection  
+    
+  - Practice:  
+    
+  + Security Governance with AWS Firewall Manager:Done  
+    
+  + Threat Detection with AWS GuardDuty:Done  
+    
+  + Systems Patching with EC2 Image Builder  
+    
+  + Cross-Domain Authentication with Amazon Cognito  
+    
+  + S3 Security Best Practices:Done (20/05/2026 → 21/05/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
+
+<!-- END EXCEL PROGRESS -->

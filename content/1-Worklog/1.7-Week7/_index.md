@@ -71,3 +71,38 @@ pre: " <b> 1.7. </b> "
 * Built stronger understanding of microservices and event-driven architecture.
 * Connected identity, AI services, and serverless design into one delivery flow.
 * Improved system-level reasoning beyond individual AWS services.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn Monolith to Microservices (DevAx Series)  
+    
+  - Practice:  
+    
+  + Monolith to Microservices Migration  
+    
+  + CI/CD for Application Release & Building Microservices  
+    
+  + Data and Workflow Restructuring  
+    
+  + Event-Driven Architecture & SPA Authentication  
+    
+  + AWS AI Services Integration (29/05/2026 → 31/05/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn Serverless Architecture (Book Store Series)  
+    
+  - Practice:  
+    
+  + Serverless Backend (Lambda, S3, DynamoDB)  
+    
+  + Frontend Development & API Gateway Integration  
+    
+  + Deployment Automation with AWS SAM  
+    
+  + User Auth (Cognito), Custom Domains & SSL  
+    
+  + Event Processing (SQS/SNS), CI/CD & GraphQL (AppSync) (2026-01-06T00:00:00.000 → 2026-04-06T00:00:00.000)  
+Reference: https://cloudjourney.awsstudygroup.com/
+
+<!-- END EXCEL PROGRESS -->

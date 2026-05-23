@@ -71,3 +71,26 @@ pre: " <b> 1.9. </b> "
 * Improved capability to build integrated web workloads on AWS.
 * Learned to observe and troubleshoot distributed systems with tracing.
 * Gained practical criteria for selecting deployment models.
+
+<!-- BEGIN EXCEL PROGRESS -->
+
+**Cập nhật từ Excel**
+
+- - Learn Amazon Lightsail Containers & ECS Basics  
+    
+  - Practice:  
+    
+  + Getting Started with Amazon Lightsail Containers  
+    
+  + Containerization with Amazon ECS and AWS Fargate (2026-12-06T00:00:00.000 → 14/06/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+- - Learn Advanced ECS Management  
+    
+  - Practice:  
+    
+  + Infrastructure as Code for ECS with CDK  
+    
+  + CI/CD Pipeline for ECS Applications (15/06/2026 → 18/06/2026)  
+Reference: https://cloudjourney.awsstudygroup.com/
+
+<!-- END EXCEL PROGRESS -->
