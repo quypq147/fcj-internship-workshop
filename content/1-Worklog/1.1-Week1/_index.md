@@ -28,103 +28,62 @@ pre: " <b> 1.1. </b> "
 
 #### Day 1 - AWS: Account & Budgets
 
-* Reviewed the Billing console, created the first budget, and noted where usage alerts appear.
+* Created an AWS account, checked the Billing console, and set the first budget.
+* Learned how to track costs and identify where service usage appears.
+* Illustration:
 
-![Day 1 screenshot](/images/1-Worklog/1.1-Week1/day1.png)
+![Day 1 screenshot](/static/images/1-Worklog/1.1-Week1/day1.png)
 
 #### Day 2 - AWS: Support & IAM
 
-* Explored AWS support options and practiced creating IAM users, groups, and permissions.
+* Learned AWS support plans and how to choose the right support channel.
+* Practiced creating IAM users, groups, and basic permissions.
+* Illustration:
 
-![Day 2 screenshot](/images/1-Worklog/1.1-Week1/day2.png)
+![Day 2 screenshot](/static/images/1-Worklog/1.1-Week1/day2.png)
 
 #### Day 3 - AWS: VPC & EC2
 
-* Studied VPC building blocks, launched EC2, and observed how compute fits into the private network.
+* Reviewed VPC components: subnets, route tables, and Internet Gateway.
+* Launched EC2 and observed how instances connect within a private network.
+* Illustration:
 
-![Day 3 screenshot](/images/1-Worklog/1.1-Week1/day3.png)
+![Day 3 screenshot](/static/images/1-Worklog/1.1-Week1/day3.png)
 
 #### Day 4 - AWS: IAM Roles & Cloud9
 
-* Attached IAM roles to EC2 and used Cloud9 as a lightweight development workspace.
+* Attached IAM roles to EC2 for safer access to resources.
+* Worked in Cloud9 to prepare for later labs.
+* Illustration:
 
-![Day 4 screenshot](/images/1-Worklog/1.1-Week1/day4.png)
+![Day 4 screenshot](/static/images/1-Worklog/1.1-Week1/day4.png)
 
 #### Day 5 - AWS: S3 & RDS
 
-* Practiced bucket operations in S3 and reviewed the basics of managed relational databases with RDS.
+* Created an S3 bucket and tried upload, download, and access permissions.
+* Worked with RDS to understand managed database basics.
+* Illustration:
 
-![Day 5 screenshot](/images/1-Worklog/1.1-Week1/day5.png)
+![Day 5 screenshot](/static/images/1-Worklog/1.1-Week1/day5.png)
 
 #### Day 6 - AWS: Lightsail
 
-* Explored Lightsail for quick service provisioning and compared it with more flexible AWS services.
+* Explored the Lightsail console and quick resource creation.
+* Compared Lightsail with more flexible AWS services.
+* Illustration:
 
-![Day 6 screenshot](/images/1-Worklog/1.1-Week1/day6.png)
+![Day 6 screenshot](/static/images/1-Worklog/1.1-Week1/day6.png)
 
 #### Day 7 - AWS: Auto Scaling & CloudWatch
 
-* Monitored logs, metrics, and alarms in CloudWatch and learned how Auto Scaling responds to load.
+* Monitored metrics, logs, and alarms in CloudWatch.
+* Learned how Auto Scaling responds to system load.
+* Illustration:
 
-![Day 7 screenshot](/images/1-Worklog/1.1-Week1/day7.png)
+![Day 7 screenshot](/static/images/1-Worklog/1.1-Week1/day7.png)
 
-### Week 1 Achievements:
+### Week 1 Outcomes:
 
-* Built a clear foundation in AWS account, IAM, networking, compute, and storage.
-* Connected budgeting and monitoring concepts to day-to-day cloud operations.
-* Prepared for deeper architecture, security, and automation topics.
-
-<!-- BEGIN EXCEL PROGRESS -->
-
-**Cập nhật từ Excel**
-
-- - Learn about AWS Accounts, Budgets & IAM  
-    
-  - Practice:  
-    
-  + Creating Your First AWS Account : Done  
-    
-  + Managing Costs with AWS Budgets : Done  
-    
-  + Getting Help with AWS Support : Done  
-    
-  + Access Management with IAM : Done (17/04/2026 → 18/04/2026) [Done]  
-Reference: https://cloudjourney.awsstudygroup.com/
-- - Learn about Networking & Compute Essentials  
-    
-  - Practice:  
-    
-  + Networking Essentials with Amazon VPC:Done  
-    
-  + Compute Essentials with Amazon EC2:Done  
-    
-  + Instance Profiling with IAM Roles for EC2:Done  
-    
-  + Cloud Development with AWS Cloud9:Done (19/04/2026 → 20/04/2026)  
-Reference: https://cloudjourney.awsstudygroup.com/
-- - Learn about Storage, Databases & Lightsail  
-    
-  - Practice:  
-    
-  + Static Website Hosting with Amazon S3:Done  
-    
-  + Database Essentials with Amazon RDS:Done  
-    
-  + Simplified Computing with Amazon Lightsail:Done  
-    
-  + Container Deployment with Lightsail Containers:Done (21/04/2026 → 22/04/2026)  
-Reference: https://cloudjourney.awsstudygroup.com/
-- - Learn about Scaling, Monitoring & CLI  
-    
-  - Practice:  
-    
-  + Scaling Applications with EC2 Auto Scaling:Done  
-    
-  + Monitoring with Amazon CloudWatch:Done  
-    
-  + Hybrid DNS Management with Amazon Route 53:Done  
-    
-  + Command Line Operations with AWS CLI:Done (23/04/2026 → 23/04/2026)  
-Reference: https://cloudjourney.awsstudygroup.com/
-
-<!-- END EXCEL PROGRESS -->
+* Understood AWS account setup, cost management, and support options.
+* Differentiated and used foundational services like IAM, VPC, EC2, S3, and RDS.
+* Built a high-level view to prepare for networking, security, and deployment topics.

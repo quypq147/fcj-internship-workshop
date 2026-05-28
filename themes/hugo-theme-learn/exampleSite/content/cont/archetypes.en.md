@@ -1,4 +1,4 @@
----
+﻿---
 title: Archetypes
 weight: 10
 ---
@@ -55,3 +55,4 @@ weight = 5
 
 Lorem Ipsum.
 ```
+

@@ -1,4 +1,4 @@
----
+﻿---
 title : "On-premises DNS Simulation"
 date : 2024-01-01
 weight : 4
@@ -81,7 +81,7 @@ You have successfully created resolver forwarding rule.
 
 1. Connect to **Test-Interface-Endpoint EC2 instance** with **Session manager**
 
-![create rule](/images/5-Workshop/5.4-S3-onprem/test1.png)
+![create rule](/static/images/5-Workshop/5.4-S3-onprem/test1.png)
 
 2. Test DNS resolution. The dig command will return the IP addresses assigned to the VPC Interface endpoint running in VPC Cloud (your IP's will be different): dig +short s3.us-east-1.amazonaws.com 
 
@@ -89,12 +89,12 @@ You have successfully created resolver forwarding rule.
 The IP addresses returned are the VPC endpoint IP addresses, NOT the Resolver IP addresses you pasted from your text editor. The IP addresses of the Resolver endpoint and the VPC endpoint look similar because they are all from the VPC Cloud CIDR block.
 {{% /notice %}}
 
-![create rule](/images/5-Workshop/5.4-S3-onprem/dig.png)
+![create rule](/static/images/5-Workshop/5.4-S3-onprem/dig.png)
 
 
 3. Navigate to the VPC menu (Endpoints section), select the S3 Interface endpoint. Click the Subnets tab and verify that the IP addresses returned by Dig match the VPC endpoint:
 
-![create rule](/images/5-Workshop/5.4-S3-onprem/subnet.png)
+![create rule](/static/images/5-Workshop/5.4-S3-onprem/subnet.png)
 
 4. Return to your shell and use the AWS CLI to test listing your S3 buckets:
 
@@ -102,10 +102,10 @@ The IP addresses returned are the VPC endpoint IP addresses, NOT the Resolver IP
 aws s3 ls --endpoint-url https://s3.us-east-1.amazonaws.com
 ```
 
-![create rule](/images/5-Workshop/5.4-S3-onprem/endpoint.png)
+![create rule](/static/images/5-Workshop/5.4-S3-onprem/endpoint.png)
 
 5. Terminate your Session Manager session:
 
-![create rule](/images/5-Workshop/5.4-S3-onprem/terminal.png)
+![create rule](/static/images/5-Workshop/5.4-S3-onprem/terminal.png)
 
 In this section you created an Interface endpoint for Amazon S3. This endpoint can be reached from on-premises through Site-to-Site VPN or AWS Direct Connect. Route 53 Resolver outbound endpoints simulated forwarding DNS requests from on-premises to a Private Hosted Zone running the cloud. Route 53 inbound Endpoints recieved the resolution request and returned a response containing the IP addresses of the VPC interface endpoint. Using DNS to resolve the endpoint IP addresses provides high availability in-case of an Availability Zone outage.

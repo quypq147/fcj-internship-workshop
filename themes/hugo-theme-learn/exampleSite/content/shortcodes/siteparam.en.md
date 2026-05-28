@@ -1,4 +1,4 @@
----
+﻿---
 title: Site param
 description: "Get value of site params variables in your page."
 ---
@@ -21,3 +21,4 @@ Use the `siteparam` shortcode to display its value.
 is displayed as
 
 `editURL` Value : {{% siteparam "editURL" %}}
+

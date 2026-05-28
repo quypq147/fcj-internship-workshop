@@ -1,4 +1,4 @@
----
+﻿---
 title: "Worklog"
 date: 2026-01-01
 weight: 1
@@ -33,3 +33,4 @@ Each week below maps to a topic cluster in the AWS Cloud Journey, from account s
 **Week 11:** [Data lake, analytics, and advanced PostgreSQL](1.11-Week11/)
 
 **Week 12:** [SageMaker, review, and journey finalization](1.12-Week12/)
+

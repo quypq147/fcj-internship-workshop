@@ -7,8 +7,8 @@ pre: " <b> 1.4. </b> "
 ---
 ### Week 4 Objectives:
 
-* Focus on security controls, service limits, and access management.
-* Practice tools that strengthen governance and protection on AWS.
+* Focus on security, service limits, and access control.
+* Get familiar with services that strengthen governance and protection on AWS.
 
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
@@ -26,55 +26,62 @@ pre: " <b> 1.4. </b> "
 
 #### Day 1 - AWS: Quotas & Environment
 
-* Reviewed service quotas and prepared the working environment before deeper labs.
+* Checked service quotas and prepared the working environment before labs.
+* Illustration:
 
 ![Day 1 screenshot](/images/1-Worklog/1.4-Week4/day1.png)
 
 #### Day 2 - AWS: EBS Backup Automation
 
-* Automated snapshots and learned basic backup planning for EBS volumes.
+* Automated snapshots and learned how to plan backups for EBS.
+* Illustration:
 
 ![Day 2 screenshot](/images/1-Worklog/1.4-Week4/day2.png)
 
 #### Day 3 - AWS: SSO & Permissions
 
-* Explored centralized identity with SSO and practiced permission assignment.
+* Learned centralized identity and how to assign permissions in enterprise setups.
+* Illustration:
 
 ![Day 3 screenshot](/images/1-Worklog/1.4-Week4/day3.png)
 
 #### Day 4 - AWS: IAM Policies & Sec Hub
 
 * Designed IAM policies and used Security Hub to review security posture.
+* Illustration:
 
 ![Day 4 screenshot](/images/1-Worklog/1.4-Week4/day4.png)
 
 #### Day 5 - AWS: S3 Endpoints & WAF
 
-* Implemented private S3 access patterns and added application protection with WAF.
+* Set up private S3 access and added application protection with WAF.
+* Illustration:
 
 ![Day 5 screenshot](/images/1-Worklog/1.4-Week4/day5.png)
 
 #### Day 6 - AWS: Macie & KMS
 
-* Applied encryption with KMS and reviewed sensitive data discovery with Macie.
+* Applied encryption with KMS and discovered sensitive data with Macie.
+* Illustration:
 
 ![Day 6 screenshot](/images/1-Worklog/1.4-Week4/day6.png)
 
 #### Day 7 - AWS: Secrets & Firewall Mgr
 
-* Managed secrets and centralized security policies across multiple accounts.
+* Managed secrets and coordinated security policies across multiple accounts.
+* Illustration:
 
 ![Day 7 screenshot](/images/1-Worklog/1.4-Week4/day7.png)
 
-### Week 4 Achievements:
+### Week 4 Outcomes:
 
-* Improved capability to design layered security controls.
-* Practiced IAM, KMS, Macie, WAF, and Security Hub in realistic scenarios.
-* Built stronger awareness of governance and compliance requirements.
+* Understood how to design layered security controls on AWS.
+* Applied IAM, KMS, Macie, WAF, and Security Hub in practical scenarios.
+* Built a foundation to handle sensitive workloads and strict access requirements.
 
 <!-- BEGIN EXCEL PROGRESS -->
 
-**Cập nhật từ Excel**
+**Cáº­p nháº­t tá»« Excel**
 
 - - Learn Infrastructure as Code (IaC)  
     
@@ -86,7 +93,7 @@ pre: " <b> 1.4. </b> "
     
   + AWS CDK Advanced:Done  
     
-  + Infrastructure as Code Workshop Series:Done (2026-08-05T00:00:00.000 → 2026-10-05T00:00:00.000)  
+  + Infrastructure as Code Workshop Series:Done (2026-08-05T00:00:00.000 â†’ 2026-10-05T00:00:00.000)  
 Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
 - - Learn Cost & Network Optimization  
     
@@ -96,7 +103,7 @@ Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
     
   + Network Monitoring with VPC Flow Logs:Done  
     
-  + Billing Console Delegation & Managing Quotas:Done (2026-11-05T00:00:00.000 → 2026-12-05T00:00:00.000)  
+  + Billing Console Delegation & Managing Quotas:Done (2026-11-05T00:00:00.000 â†’ 2026-12-05T00:00:00.000)  
 Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
 - - Learn Cost Management & EBS Backups  
     
@@ -108,7 +115,8 @@ Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
     
   + Anomaly Detection for EBS Backups:Done  
     
-  + Development Environment with Toolkit for VS Code:Done (13/05/2026 → 14/05/2026)  
+  + Development Environment with Toolkit for VS Code:Done (13/05/2026 â†’ 14/05/2026)  
 Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
 
 <!-- END EXCEL PROGRESS -->
+

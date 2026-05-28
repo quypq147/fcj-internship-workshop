@@ -1,4 +1,4 @@
-# Changelog
+﻿# Changelog
 
 ## v2.4.0 (04/09/2019)
 
@@ -180,3 +180,4 @@
 - [**closed**] Add Checkmark On visited Links [#4](https://github.com/matcornic/hugo-theme-learn/pull/4)
 - [**closed**] doc: Add theme installation instructions [#1](https://github.com/matcornic/hugo-theme-learn/pull/1)
 - [**closed**] Search [#18](https://github.com/matcornic/hugo-theme-learn/pull/18)
+

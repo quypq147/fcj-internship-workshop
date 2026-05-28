@@ -7,8 +7,8 @@ pre: " <b> 1.11. </b> "
 ---
 ### Week 11 Objectives:
 
-* Shift focus to data platform, analytics, and query workloads.
-* Build understanding of BI and advanced PostgreSQL use cases.
+* Shift to data topics, analytics, and data warehousing.
+* Get familiar with analytics models, BI, and advanced PostgreSQL.
 
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
@@ -26,55 +26,62 @@ pre: " <b> 1.11. </b> "
 
 #### Day 1 - AWS: Data Lake Fundamentals
 
-* Studied the fundamentals of data lake architecture on AWS.
+* Learned data lake fundamentals and its role in data workloads.
+* Illustration:
 
 ![Day 1 screenshot](/images/1-Worklog/1.11-Week11/day1.png)
 
 #### Day 2 - AWS: Build Data Lake
 
-* Built a data lake with sample data and an initial storage structure.
+* Built a data lake with sample data and basic storage structure.
+* Illustration:
 
 ![Day 2 screenshot](/images/1-Worklog/1.11-Week11/day2.png)
 
 #### Day 3 - AWS: Analytics Overview & QuickSight
 
-* Explored analytics workflows and BI dashboards with QuickSight.
+* Reviewed analytics and BI basics with QuickSight.
+* Illustration:
 
 ![Day 3 screenshot](/images/1-Worklog/1.11-Week11/day3.png)
 
 #### Day 4 - AWS: Data Eng Immersion Day
 
-* Worked through scenarios designed for data engineering practice.
+* Practiced data engineering scenarios.
+* Illustration:
 
 ![Day 4 screenshot](/images/1-Worklog/1.11-Week11/day4.png)
 
 #### Day 5 - AWS: Athena Analytics
 
 * Queried data with Athena for quick serverless analysis.
+* Illustration:
 
 ![Day 5 screenshot](/images/1-Worklog/1.11-Week11/day5.png)
 
 #### Day 6 - AWS: Adv PostgreSQL Part 1
 
-* Practiced advanced PostgreSQL features and basic tuning ideas.
+* Practiced advanced PostgreSQL features and basic tuning.
+* Illustration:
 
 ![Day 6 screenshot](/images/1-Worklog/1.11-Week11/day6.png)
 
 #### Day 7 - AWS: Adv PostgreSQL Part 2
 
-* Continued the advanced PostgreSQL track and completed the final exercises.
+* Continued the advanced track to complete PostgreSQL skills.
+* Illustration:
 
 ![Day 7 screenshot](/images/1-Worklog/1.11-Week11/day7.png)
 
-### Week 11 Achievements:
+### Week 11 Outcomes:
 
-* Established a stronger end-to-end view of data and analytics on AWS.
-* Connected Athena, QuickSight, and PostgreSQL usage patterns effectively.
-* Improved readiness for larger-scale data workload design.
+* Understood the big picture of data, analytics, and data warehousing on AWS.
+* Learned how Athena, QuickSight, and PostgreSQL connect in analytics workflows.
+* Built a foundation for larger-scale data workloads.
 
 <!-- BEGIN EXCEL PROGRESS -->
 
-**Cập nhật từ Excel**
+**Cáº­p nháº­t tá»« Excel**
 
 - - Learn Business Intelligence & Serverless Analytics  
     
@@ -84,7 +91,7 @@ pre: " <b> 1.11. </b> "
     
   + Business Intelligence with Amazon QuickSight  
     
-  + Serverless Analytics with Amazon Athena (26/06/2026 → 28/06/2026)  
+  + Serverless Analytics with Amazon Athena (26/06/2026 â†’ 28/06/2026)  
 Reference: https://cloudjourney.awsstudygroup.com/
 - - Learn Data Engineering & Advanced DBs  
     
@@ -94,7 +101,8 @@ Reference: https://cloudjourney.awsstudygroup.com/
     
   + Advanced PostgreSQL on AWS - Part 1  
     
-  + Advanced PostgreSQL on AWS - Part 2 (29/06/2026 → 2026-02-07T00:00:00.000)  
+  + Advanced PostgreSQL on AWS - Part 2 (29/06/2026 â†’ 2026-02-07T00:00:00.000)  
 Reference: https://cloudjourney.awsstudygroup.com/
 
 <!-- END EXCEL PROGRESS -->
+

@@ -74,7 +74,7 @@ pre: " <b> 1.5. </b> "
 
 <!-- BEGIN EXCEL PROGRESS -->
 
-**Cập nhật từ Excel**
+**Cáº­p nháº­t tá»« Excel**
 
 - - Learn Identity & Access Management  
     
@@ -86,7 +86,7 @@ pre: " <b> 1.5. </b> "
     
   + Access Control with IAM Policies and Conditions:Done  
     
-  + Security Compliance with AWS Security Hub:Done (15/05/2026 → 16/05/2026)  
+  + Security Compliance with AWS Security Hub:Done (15/05/2026 â†’ 16/05/2026)  
 Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
 - - Learn Data & Application Protection  
     
@@ -100,7 +100,7 @@ Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
     
   + Data Protection with Amazon Macie:Done  
     
-  + Credentials Management with AWS Secrets Manager:Done (17/05/2026 → 19/05/2026)  
+  + Credentials Management with AWS Secrets Manager:Done (17/05/2026 â†’ 19/05/2026)  
 Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
 - - Learn Security Governance & Threat Detection  
     
@@ -114,7 +114,8 @@ Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
     
   + Cross-Domain Authentication with Amazon Cognito  
     
-  + S3 Security Best Practices:Done (20/05/2026 → 21/05/2026)  
+  + S3 Security Best Practices:Done (20/05/2026 â†’ 21/05/2026)  
 Reference: https://cloudjourney.awsstudygroup.com/3-optimize/
 
 <!-- END EXCEL PROGRESS -->
+

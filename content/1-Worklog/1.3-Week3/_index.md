@@ -7,8 +7,8 @@ pre: " <b> 1.3. </b> "
 ---
 ### Week 3 Objectives:
 
-* Strengthen IaC, systems management, and observability capabilities.
-* Learn to automate infrastructure provisioning and operations.
+* Get familiar with infrastructure as code, systems management, and monitoring.
+* Know how to use AWS to automate deployment and operations.
 
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
@@ -27,54 +27,61 @@ pre: " <b> 1.3. </b> "
 #### Day 1 - AWS: Lambda & Grafana
 
 * Explored serverless automation and built an initial monitoring view with Grafana.
+* Illustration:
 
 ![Day 1 screenshot](/images/1-Worklog/1.3-Week3/day1.png)
 
 #### Day 2 - AWS: CloudWatch Advanced
 
-* Practiced advanced observability with logs, metrics, alarms, and dashboards.
+* Practiced advanced monitoring with logs, metrics, alarms, and dashboards.
+* Illustration:
 
 ![Day 2 screenshot](/images/1-Worklog/1.3-Week3/day2.png)
 
 #### Day 3 - AWS: Resource Tags & IAM
 
-* Used tags and IAM policies together to organize resources and tighten access control.
+* Combined tagging and IAM policies to manage resources and access control.
+* Illustration:
 
 ![Day 3 screenshot](/images/1-Worklog/1.3-Week3/day3.png)
 
 #### Day 4 - AWS: Systems Manager
 
-* Managed remote systems with Session Manager and reviewed operational tooling in SSM.
+* Managed remote systems with Session Manager and reviewed SSM operational tools.
+* Illustration:
 
 ![Day 4 screenshot](/images/1-Worklog/1.3-Week3/day4.png)
 
 #### Day 5 - AWS: CloudFormation & CDK
 
 * Provisioned infrastructure as code using CloudFormation and AWS CDK.
+* Illustration:
 
 ![Day 5 screenshot](/images/1-Worklog/1.3-Week3/day5.png)
 
 #### Day 6 - AWS: IaC Advanced
 
-* Improved CDK design, deployment structure, and repeatable infrastructure workflows.
+* Improved CDK structure, deployment flow, and infrastructure reusability.
+* Illustration:
 
 ![Day 6 screenshot](/images/1-Worklog/1.3-Week3/day6.png)
 
 #### Day 7 - AWS: Optimization & Monitoring
 
-* Tuned resource usage and reviewed how billing, monitoring, and performance relate.
+* Optimized resources and reviewed how cost, performance, and monitoring connect.
+* Illustration:
 
 ![Day 7 screenshot](/images/1-Worklog/1.3-Week3/day7.png)
 
-### Week 3 Achievements:
+### Week 3 Outcomes:
 
-* Built a practical base in infrastructure automation and operations.
-* Improved governance and visibility across resources.
-* Became more effective in deploying and managing AWS environments.
+* Understood how AWS supports infrastructure automation and operations.
+* Learned to apply tagging, IAM, Systems Manager, and CloudWatch in real scenarios.
+* Built a foundation to work with IaC in later weeks.
 
 <!-- BEGIN EXCEL PROGRESS -->
 
-**Cập nhật từ Excel**
+**Cáº­p nháº­t tá»« Excel**
 
 - - Learn Migration Strategies & Disaster Recovery  
     
@@ -84,7 +91,7 @@ pre: " <b> 1.3. </b> "
     
   + Database Migration with DMS and SCT:Done  
     
-  + Disaster Recovery with AWS Elastic Disaster Recovery:Done (2026-01-05T00:00:00.000 → 2026-02-05T00:00:00.000)  
+  + Disaster Recovery with AWS Elastic Disaster Recovery:Done (2026-01-05T00:00:00.000 â†’ 2026-02-05T00:00:00.000)  
 Reference: https://cloudjourney.awsstudygroup.com/
 - - Learn Serverless Automation & Adv Monitoring  
     
@@ -94,7 +101,7 @@ Reference: https://cloudjourney.awsstudygroup.com/
     
   + Advanced Monitoring with CloudWatch and Grafana:Done  
     
-  + CloudWatch Advanced Workshop:Done (2026-03-05T00:00:00.000 → 2026-04-05T00:00:00.000)  
+  + CloudWatch Advanced Workshop:Done (2026-03-05T00:00:00.000 â†’ 2026-04-05T00:00:00.000)  
 Reference: https://cloudjourney.awsstudygroup.com/
 - - Learn Resource Management & Systems Manager  
     
@@ -106,7 +113,8 @@ Reference: https://cloudjourney.awsstudygroup.com/
     
   + Systems Management with AWS Systems Manager:Done  
     
-  + Remote Server Access with Session Manager:Done (2026-05-05T00:00:00.000 → 2026-07-05T00:00:00.000)  
+  + Remote Server Access with Session Manager:Done (2026-05-05T00:00:00.000 â†’ 2026-07-05T00:00:00.000)  
 Reference: https://cloudjourney.awsstudygroup.com/
 
 <!-- END EXCEL PROGRESS -->
+

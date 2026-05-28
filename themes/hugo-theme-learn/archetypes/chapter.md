@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "{{ replace .Name "-" " " | title }}"
 date = {{ .Date }}
 weight = 5
@@ -11,3 +11,4 @@ pre = "<b>X. </b>"
 # Some Chapter title
 
 Lorem Ipsum.
+

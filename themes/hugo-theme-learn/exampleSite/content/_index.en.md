@@ -1,4 +1,4 @@
----
+﻿---
 title: "Learn Theme for Hugo"
 ---
 
@@ -24,7 +24,7 @@ This theme is a partial porting of the [Learn theme](http://learn.getgrav.org/) 
 - [Customizable look and feel and themes variants]({{%relref "basics/style-customization/_index.md"%}})
 - [Buttons]({{%relref "shortcodes/button.en.md" %}}), [Tip/Note/Info/Warning boxes]({{%relref "shortcodes/notice.en.md" %}}), [Expand]({{%relref "shortcodes/expand.en.md" %}})
 
-![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/images/screenshot.png?width=40pc&classes=shadow)
+![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/static/images/screenshot.png?width=40pc&classes=shadow)
 
 ## Contribute to this documentation
 
@@ -41,3 +41,4 @@ This current documentation has been statically generated with Hugo with a simple
 {{% notice note %}}
 Automatically published and hosted thanks to [Netlify](https://www.netlify.com/). Read more about [Automated HUGO deployments with Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)
 {{% /notice %}}
+

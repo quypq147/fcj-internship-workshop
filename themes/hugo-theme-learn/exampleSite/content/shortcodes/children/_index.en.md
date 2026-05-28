@@ -1,4 +1,4 @@
----
+﻿---
 title: Children
 description: List the child pages of a page
 ---
@@ -37,3 +37,4 @@ Use the children shortcode to list the child pages of a page and the further des
     {{%/* children style="div" depth="999" */%}}
 
 {{% children style="div" depth="999" %}}
+

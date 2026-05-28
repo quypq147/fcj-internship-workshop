@@ -7,8 +7,8 @@ pre: " <b> 1.6. </b> "
 ---
 ### Week 6 Objectives:
 
-* Practice containerization, orchestration, and CI/CD for cloud applications.
-* Extend understanding of storage strategy and cost optimization.
+* Practice containerization, orchestration, and CI/CD for container apps.
+* Learn more about storage and cost optimization.
 
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material | Status |
@@ -26,55 +26,62 @@ pre: " <b> 1.6. </b> "
 
 #### Day 1 - AWS: Docker & ECS
 
-* Containerized an application and deployed it on Amazon ECS.
+* Containerized an application and ran it on Amazon ECS.
+* Illustration:
 
 ![Day 1 screenshot](/images/1-Worklog/1.6-Week6/day1.png)
 
 #### Day 2 - AWS: ECS IaC & CodePipeline
 
-* Automated ECS delivery using CDK and CodePipeline.
+* Automated ECS deployment using CDK and CodePipeline.
+* Illustration:
 
 ![Day 2 screenshot](/images/1-Worklog/1.6-Week6/day2.png)
 
 #### Day 3 - AWS: Deployments & DevOps
 
-* Practiced release automation and basic DevOps delivery patterns.
+* Practiced automated release workflows and DevOps operations.
+* Illustration:
 
 ![Day 3 screenshot](/images/1-Worklog/1.6-Week6/day3.png)
 
 #### Day 4 - AWS: Storage Gateway & FSx
 
-* Explored hybrid storage and file storage options for Windows workloads.
+* Explored hybrid storage and file storage for Windows environments.
+* Illustration:
 
 ![Day 4 screenshot](/images/1-Worklog/1.6-Week6/day4.png)
 
 #### Day 5 - AWS: DynamoDB & Step Functions
 
 * Combined NoSQL storage with workflow orchestration.
+* Illustration:
 
 ![Day 5 screenshot](/images/1-Worklog/1.6-Week6/day5.png)
 
 #### Day 6 - AWS: Storage Performance
 
-* Reviewed how storage choices affect performance and responsiveness.
+* Analyzed storage performance and how choices affect the system.
+* Illustration:
 
 ![Day 6 screenshot](/images/1-Worklog/1.6-Week6/day6.png)
 
 #### Day 7 - AWS: Cost Visualization
 
-* Analyzed and visualized cloud cost data to support optimization decisions.
+* Visualized cloud costs to support budget optimization.
+* Illustration:
 
 ![Day 7 screenshot](/images/1-Worklog/1.6-Week6/day7.png)
 
-### Week 6 Achievements:
+### Week 6 Outcomes:
 
-* Improved practical skills in container deployment and CI/CD implementation.
-* Connected architecture choices with storage and cost behavior.
-* Developed stronger judgment on scalable and efficient platform design.
+* Learned how to deploy and operate container applications on AWS.
+* Understood the link between CI/CD, storage, and cost optimization.
+* Gained perspective on designing systems that are flexible and cost-efficient.
 
 <!-- BEGIN EXCEL PROGRESS -->
 
-**Cập nhật từ Excel**
+**Cáº­p nháº­t tá»« Excel**
 
 - - Learn Reliability & Networking  
     
@@ -86,7 +93,7 @@ pre: " <b> 1.6. </b> "
     
   + Centralized Network Management with Transit Gateway:Done  
     
-  + Messaging Systems with SQS and SNS:Done (22/05/2026 → 23/05/2026)  
+  + Messaging Systems with SQS and SNS:Done (22/05/2026 â†’ 23/05/2026)  
 Reference: https://cloudjourney.awsstudygroup.com/
 - - Learn Database HA & Failover  
     
@@ -98,7 +105,7 @@ Reference: https://cloudjourney.awsstudygroup.com/
     
   + Windows Server Failover Clustering on AWS  
     
-  + SQL Server High Availability on AWS (2019 & 2022) (24/05/2026 → 25/05/2026)  
+  + SQL Server High Availability on AWS (2019 & 2022) (24/05/2026 â†’ 25/05/2026)  
 Reference: https://cloudjourney.awsstudygroup.com/
 - - Learn Performance Optimization & Cost Management  
     
@@ -112,7 +119,8 @@ Reference: https://cloudjourney.awsstudygroup.com/
     
   + Workflow Orchestration (Step Functions) & Adv DynamoDB  
     
-  + Cost Savings Plans, Athena Analytics & Perf Workshop (26/05/2026 → 28/05/2026)  
+  + Cost Savings Plans, Athena Analytics & Perf Workshop (26/05/2026 â†’ 28/05/2026)  
 Reference: https://cloudjourney.awsstudygroup.com/
 
 <!-- END EXCEL PROGRESS -->
+

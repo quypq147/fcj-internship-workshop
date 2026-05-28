@@ -29,7 +29,7 @@ pre: " <b> 1.1. </b> "
 * Làm quen với cách theo dõi chi phí và nhận biết các khu vực phát sinh sử dụng dịch vụ.
 * Hình ảnh minh họa:
 
-![Hình minh họa ngày 1](../../images/1-Worklog/1.1-Week1/day1.png)
+![Hình minh họa ngày 1](/static/images/1-Worklog/1.1-Week1/day1.png)
 
 #### Ngày 2 - AWS: Support & IAM
 
@@ -37,7 +37,7 @@ pre: " <b> 1.1. </b> "
 * Thực hành tạo người dùng, nhóm và quyền IAM cơ bản.
 * Hình ảnh minh họa:
 
-![Hình minh họa ngày 2](../../images/1-Worklog/1.1-Week1/day2.png)
+![Hình minh họa ngày 2](/static/images/1-Worklog/1.1-Week1/day2.png)
 
 #### Ngày 3 - AWS: VPC & EC2
 
@@ -45,7 +45,7 @@ pre: " <b> 1.1. </b> "
 * Khởi tạo EC2 và quan sát cách instance kết nối vào mạng riêng.
 * Hình ảnh minh họa:
 
-![Hình minh họa ngày 3](../../images/1-Worklog/1.1-Week1/day3.png)
+![Hình minh họa ngày 3](/static/images/1-Worklog/1.1-Week1/day3.png)
 
 #### Ngày 4 - AWS: IAM Roles & Cloud9
 
@@ -53,7 +53,7 @@ pre: " <b> 1.1. </b> "
 * Thực hành làm việc trên Cloud9 để chuẩn bị cho các buổi lab sau.
 * Hình ảnh minh họa:
 
-![Hình minh họa ngày 4](../../images/1-Worklog/1.1-Week1/day4.png)
+![Hình minh họa ngày 4](/static/images/1-Worklog/1.1-Week1/day4.png)
 
 #### Ngày 5 - AWS: S3 & RDS
 
@@ -61,7 +61,7 @@ pre: " <b> 1.1. </b> "
 * Làm việc với RDS để hiểu cách triển khai cơ sở dữ liệu được quản lý.
 * Hình ảnh minh họa:
 
-![Hình minh họa ngày 5](../../images/1-Worklog/1.1-Week1/day5.png)
+![Hình minh họa ngày 5](/static/images/1-Worklog/1.1-Week1/day5.png)
 
 #### Ngày 6 - AWS: Lightsail
 
@@ -69,7 +69,7 @@ pre: " <b> 1.1. </b> "
 * So sánh Lightsail với các dịch vụ AWS có độ linh hoạt cao hơn.
 * Hình ảnh minh họa:
 
-![Hình minh họa ngày 6](../../images/1-Worklog/1.1-Week1/day6.png)
+![Hình minh họa ngày 6](/static/images/1-Worklog/1.1-Week1/day6.png)
 
 #### Ngày 7 - AWS: Auto Scaling & CloudWatch
 
@@ -77,7 +77,7 @@ pre: " <b> 1.1. </b> "
 * Tìm hiểu cách Auto Scaling phản ứng với tải hệ thống.
 * Hình ảnh minh họa:
 
-![Hình minh họa ngày 7](../../images/1-Worklog/1.1-Week1/day7.png)
+![Hình minh họa ngày 7](/static/images/1-Worklog/1.1-Week1/day7.png)
 
 ### Kết quả đạt được tuần 1:
 
