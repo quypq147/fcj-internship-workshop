@@ -29,49 +29,49 @@ pre: " <b> 1.6. </b> "
 * Containerized an application and ran it on Amazon ECS.
 * Illustration:
 
-![Day 1 screenshot](/images/1-Worklog/1.6-Week6/day1.png)
+![Day 1 screenshot](/static/images/1-Worklog/1.6-Week6/day1.png)
 
 #### Day 2 - AWS: ECS IaC & CodePipeline
 
 * Automated ECS deployment using CDK and CodePipeline.
 * Illustration:
 
-![Day 2 screenshot](/images/1-Worklog/1.6-Week6/day2.png)
+![Day 2 screenshot](/static/images/1-Worklog/1.6-Week6/day2.png)
 
 #### Day 3 - AWS: Deployments & DevOps
 
 * Practiced automated release workflows and DevOps operations.
 * Illustration:
 
-![Day 3 screenshot](/images/1-Worklog/1.6-Week6/day3.png)
+![Day 3 screenshot](/static/images/1-Worklog/1.6-Week6/day3.png)
 
 #### Day 4 - AWS: Storage Gateway & FSx
 
 * Explored hybrid storage and file storage for Windows environments.
 * Illustration:
 
-![Day 4 screenshot](/images/1-Worklog/1.6-Week6/day4.png)
+![Day 4 screenshot](/static/images/1-Worklog/1.6-Week6/day4.png)
 
 #### Day 5 - AWS: DynamoDB & Step Functions
 
 * Combined NoSQL storage with workflow orchestration.
 * Illustration:
 
-![Day 5 screenshot](/images/1-Worklog/1.6-Week6/day5.png)
+![Day 5 screenshot](/static/images/1-Worklog/1.6-Week6/day5.png)
 
 #### Day 6 - AWS: Storage Performance
 
 * Analyzed storage performance and how choices affect the system.
 * Illustration:
 
-![Day 6 screenshot](/images/1-Worklog/1.6-Week6/day6.png)
+![Day 6 screenshot](/static/images/1-Worklog/1.6-Week6/day6.png)
 
 #### Day 7 - AWS: Cost Visualization
 
 * Visualized cloud costs to support budget optimization.
 * Illustration:
 
-![Day 7 screenshot](/images/1-Worklog/1.6-Week6/day7.png)
+![Day 7 screenshot](/static/images/1-Worklog/1.6-Week6/day7.png)
 
 ### Week 6 Outcomes:
 

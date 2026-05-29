@@ -29,92 +29,53 @@ pre: " <b> 1.3. </b> "
 * Explored serverless automation and built an initial monitoring view with Grafana.
 * Illustration:
 
-![Day 1 screenshot](/images/1-Worklog/1.3-Week3/day1.png)
+![Day 1 screenshot](/static/images/1-Worklog/1.3-Week3/day1.png)
 
 #### Day 2 - AWS: CloudWatch Advanced
 
 * Practiced advanced monitoring with logs, metrics, alarms, and dashboards.
 * Illustration:
 
-![Day 2 screenshot](/images/1-Worklog/1.3-Week3/day2.png)
+![Day 2 screenshot](/static/images/1-Worklog/1.3-Week3/day2.png)
 
 #### Day 3 - AWS: Resource Tags & IAM
 
 * Combined tagging and IAM policies to manage resources and access control.
 * Illustration:
 
-![Day 3 screenshot](/images/1-Worklog/1.3-Week3/day3.png)
+![Day 3 screenshot](/static/images/1-Worklog/1.3-Week3/day3.png)
 
 #### Day 4 - AWS: Systems Manager
 
 * Managed remote systems with Session Manager and reviewed SSM operational tools.
 * Illustration:
 
-![Day 4 screenshot](/images/1-Worklog/1.3-Week3/day4.png)
+![Day 4 screenshot](/static/images/1-Worklog/1.3-Week3/day4.png)
 
 #### Day 5 - AWS: CloudFormation & CDK
 
 * Provisioned infrastructure as code using CloudFormation and AWS CDK.
 * Illustration:
 
-![Day 5 screenshot](/images/1-Worklog/1.3-Week3/day5.png)
+![Day 5 screenshot](/static/images/1-Worklog/1.3-Week3/day5.png)
 
 #### Day 6 - AWS: IaC Advanced
 
 * Improved CDK structure, deployment flow, and infrastructure reusability.
 * Illustration:
 
-![Day 6 screenshot](/images/1-Worklog/1.3-Week3/day6.png)
+![Day 6 screenshot](/static/images/1-Worklog/1.3-Week3/day6.png)
 
 #### Day 7 - AWS: Optimization & Monitoring
 
 * Optimized resources and reviewed how cost, performance, and monitoring connect.
 * Illustration:
 
-![Day 7 screenshot](/images/1-Worklog/1.3-Week3/day7.png)
+![Day 7 screenshot](/static/images/1-Worklog/1.3-Week3/day7.png)
 
 ### Week 3 Outcomes:
 
 * Understood how AWS supports infrastructure automation and operations.
 * Learned to apply tagging, IAM, Systems Manager, and CloudWatch in real scenarios.
 * Built a foundation to work with IaC in later weeks.
-
-<!-- BEGIN EXCEL PROGRESS -->
-
-**Cáº­p nháº­t tá»« Excel**
-
-- - Learn Migration Strategies & Disaster Recovery  
-    
-  - Practice:  
-    
-  + VM Migration with AWS VM Import/Export:Done  
-    
-  + Database Migration with DMS and SCT:Done  
-    
-  + Disaster Recovery with AWS Elastic Disaster Recovery:Done (2026-01-05T00:00:00.000 â†’ 2026-02-05T00:00:00.000)  
-Reference: https://cloudjourney.awsstudygroup.com/
-- - Learn Serverless Automation & Adv Monitoring  
-    
-  - Practice:  
-    
-  + Serverless Automation with AWS Lambda:Done  
-    
-  + Advanced Monitoring with CloudWatch and Grafana:Done  
-    
-  + CloudWatch Advanced Workshop:Done (2026-03-05T00:00:00.000 â†’ 2026-04-05T00:00:00.000)  
-Reference: https://cloudjourney.awsstudygroup.com/
-- - Learn Resource Management & Systems Manager  
-    
-  - Practice:  
-    
-  + Resource Organization with Tags and Resource Groups:Done  
-    
-  + Access Control with IAM and Resource Tags:Done  
-    
-  + Systems Management with AWS Systems Manager:Done  
-    
-  + Remote Server Access with Session Manager:Done (2026-05-05T00:00:00.000 â†’ 2026-07-05T00:00:00.000)  
-Reference: https://cloudjourney.awsstudygroup.com/
-
-<!-- END EXCEL PROGRESS -->
 

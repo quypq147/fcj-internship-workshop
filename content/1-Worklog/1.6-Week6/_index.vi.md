@@ -27,43 +27,43 @@ pre: " <b> 1.6. </b> "
 
 * Container hóa ứng dụng và chạy thử trên Amazon ECS.
 
-![Hình minh họa ngày 1](/images/1-Worklog/1.6-Week6/day1.png)
+![Hình minh họa ngày 1](/static/images/1-Worklog/1.6-Week6/day1.png)
 
 #### Ngày 2 - AWS: ECS IaC & CodePipeline
 
 * Tự động hóa triển khai ECS bằng CDK và CodePipeline.
 
-![Hình minh họa ngày 2](/images/1-Worklog/1.6-Week6/day2.png)
+![Hình minh họa ngày 2](/static/images/1-Worklog/1.6-Week6/day2.png)
 
 #### Ngày 3 - AWS: Deployments & DevOps
 
 * Thực hành quy trình phát hành tự động và cách vận hành DevOps.
 
-![Hình minh họa ngày 3](/images/1-Worklog/1.6-Week6/day3.png)
+![Hình minh họa ngày 3](/static/images/1-Worklog/1.6-Week6/day3.png)
 
 #### Ngày 4 - AWS: Storage Gateway & FSx
 
 * Khám phá lưu trữ lai và file storage cho môi trường Windows.
 
-![Hình minh họa ngày 4](/images/1-Worklog/1.6-Week6/day4.png)
+![Hình minh họa ngày 4](/static/images/1-Worklog/1.6-Week6/day4.png)
 
 #### Ngày 5 - AWS: DynamoDB & Step Functions
 
 * Kết hợp NoSQL với điều phối workflow để xây dựng luồng xử lý rõ ràng.
 
-![Hình minh họa ngày 5](/images/1-Worklog/1.6-Week6/day5.png)
+![Hình minh họa ngày 5](/static/images/1-Worklog/1.6-Week6/day5.png)
 
 #### Ngày 6 - AWS: Storage Performance
 
 * Phân tích hiệu năng lưu trữ và tác động của lựa chọn storage lên hệ thống.
 
-![Hình minh họa ngày 6](/images/1-Worklog/1.6-Week6/day6.png)
+![Hình minh họa ngày 6](/static/images/1-Worklog/1.6-Week6/day6.png)
 
 #### Ngày 7 - AWS: Cost Visualization
 
 * Trực quan hóa chi phí đám mây để hỗ trợ quyết định tối ưu ngân sách.
 
-![Hình minh họa ngày 7](/images/1-Worklog/1.6-Week6/day7.png)
+![Hình minh họa ngày 7](/static/images/1-Worklog/1.6-Week6/day7.png)
 
 ### Kết quả đạt được tuần 6:
 

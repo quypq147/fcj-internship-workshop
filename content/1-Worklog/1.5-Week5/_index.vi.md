@@ -27,43 +27,43 @@ pre: " <b> 1.5. </b> "
 
 * Ra soat giam sat bao mat va quy trinh patching he thong.
 
-![Hinh minh hoa ngay 1](/images/1-Worklog/1.5-Week5/day1.png)
+![Hinh minh hoa ngay 1](/static/images/1-Worklog/1.5-Week5/day1.png)
 
 #### Ngay 2 - AWS: Backup & VPC Peering
 
 * Ket noi ke hoach backup voi thiet ke mang qua cac tinh huong VPC peering.
 
-![Hinh minh hoa ngay 2](/images/1-Worklog/1.5-Week5/day2.png)
+![Hinh minh hoa ngay 2](/static/images/1-Worklog/1.5-Week5/day2.png)
 
 #### Ngay 3 - AWS: Transit GW & Messaging
 
 * Hoc dinh tuyen tap trung voi Transit Gateway va cac luong nhan tin co ban.
 
-![Hinh minh hoa ngay 3](/images/1-Worklog/1.5-Week5/day3.png)
+![Hinh minh hoa ngay 3](/static/images/1-Worklog/1.5-Week5/day3.png)
 
 #### Ngay 4 - AWS: EBS Multi-Attach
 
 * Kiem thu hanh vi luu tru chia se va gioi han cua EBS Multi-Attach.
 
-![Hinh minh hoa ngay 4](/images/1-Worklog/1.5-Week5/day4.png)
+![Hinh minh hoa ngay 4](/static/images/1-Worklog/1.5-Week5/day4.png)
 
 #### Ngay 5 - AWS: Windows Clustering
 
 * Ra soat y tuong failover clustering cho workload Windows Server.
 
-![Hinh minh hoa ngay 5](/images/1-Worklog/1.5-Week5/day5.png)
+![Hinh minh hoa ngay 5](/static/images/1-Worklog/1.5-Week5/day5.png)
 
 #### Ngay 6 - AWS: SQL Server HA 2019
 
 * Thuc hanh cac khai niem san sang cao khi trien khai SQL Server tren AWS.
 
-![Hinh minh hoa ngay 6](/images/1-Worklog/1.5-Week5/day6.png)
+![Hinh minh hoa ngay 6](/static/images/1-Worklog/1.5-Week5/day6.png)
 
 #### Ngay 7 - AWS: SQL Server HA 2022
 
 * So sanh cac cai tien ve HA tren phien ban SQL Server moi.
 
-![Hinh minh hoa ngay 7](/images/1-Worklog/1.5-Week5/day7.png)
+![Hinh minh hoa ngay 7](/static/images/1-Worklog/1.5-Week5/day7.png)
 
 ### Ket qua dat duoc tuan 5:
 

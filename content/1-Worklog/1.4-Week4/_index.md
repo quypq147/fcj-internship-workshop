@@ -29,49 +29,49 @@ pre: " <b> 1.4. </b> "
 * Checked service quotas and prepared the working environment before labs.
 * Illustration:
 
-![Day 1 screenshot](/images/1-Worklog/1.4-Week4/day1.png)
+![Day 1 screenshot](/static/images/1-Worklog/1.4-Week4/day1.png)
 
 #### Day 2 - AWS: EBS Backup Automation
 
 * Automated snapshots and learned how to plan backups for EBS.
 * Illustration:
 
-![Day 2 screenshot](/images/1-Worklog/1.4-Week4/day2.png)
+![Day 2 screenshot](/static/images/1-Worklog/1.4-Week4/day2.png)
 
 #### Day 3 - AWS: SSO & Permissions
 
 * Learned centralized identity and how to assign permissions in enterprise setups.
 * Illustration:
 
-![Day 3 screenshot](/images/1-Worklog/1.4-Week4/day3.png)
+![Day 3 screenshot](/static/images/1-Worklog/1.4-Week4/day3.png)
 
 #### Day 4 - AWS: IAM Policies & Sec Hub
 
 * Designed IAM policies and used Security Hub to review security posture.
 * Illustration:
 
-![Day 4 screenshot](/images/1-Worklog/1.4-Week4/day4.png)
+![Day 4 screenshot](/static/static/images/1-Worklog/1.4-Week4/day4.png)
 
 #### Day 5 - AWS: S3 Endpoints & WAF
 
 * Set up private S3 access and added application protection with WAF.
 * Illustration:
 
-![Day 5 screenshot](/images/1-Worklog/1.4-Week4/day5.png)
+![Day 5 screenshot](/static/images/1-Worklog/1.4-Week4/day5.png)
 
 #### Day 6 - AWS: Macie & KMS
 
 * Applied encryption with KMS and discovered sensitive data with Macie.
 * Illustration:
 
-![Day 6 screenshot](/images/1-Worklog/1.4-Week4/day6.png)
+![Day 6 screenshot](/static/images/1-Worklog/1.4-Week4/day6.png)
 
 #### Day 7 - AWS: Secrets & Firewall Mgr
 
 * Managed secrets and coordinated security policies across multiple accounts.
 * Illustration:
 
-![Day 7 screenshot](/images/1-Worklog/1.4-Week4/day7.png)
+![Day 7 screenshot](/static/images/1-Worklog/1.4-Week4/day7.png)
 
 ### Week 4 Outcomes:
 
