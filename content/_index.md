@@ -15,7 +15,7 @@ chapter: false
 
 &emsp; **Email:** phanngocquy1472004@gmail.com
 
-&emsp; **University:** Ho Chi Minh City of Technology (HUTECH)
+&emsp; **University:** HUTECH University of Technology
 
 &emsp; **Major:** Information Technology
 
