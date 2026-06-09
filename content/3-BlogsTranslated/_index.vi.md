@@ -12,5 +12,5 @@ pre: " <b> 3. </b> "
 
 Tại đây sẽ là phần liệt kê, giới thiệu các blogs mà các bạn đã đăng trên [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj). Ví dụ:
 
-###  [Blog 1 - SESSION POLICIES TRONG AMAZON EKS POD IDENTITY](3.1-Blog1/)
-Blog này giới thiệu Amazon EKS Pod Identity vừa bổ sung tính năng session policies, cho phép bạn thu hẹp quyền IAM một cách linh hoạt và chính xác cho từng pod mà không cần tạo thêm nhiều IAM roles riêng biệt. Đây là bước tiến quan trọng giúp áp dụng nguyên tắc least privilege hiệu quả hơn trong môi trường Kubernetes quy mô lớn.
+###  [Blog 1 - ĐƠN GIẢN HÓA TÍCH HỢP AWS APPSYNC EVENTS VỚI POWERTOOLS FOR AWS LAMBDA](3.1-Blog1/)
+Blog này giới thiệu Powertools for AWS Lambda vừa ra mắt tính năng mới AppSyncEventsResolver (hỗ trợ Python, TypeScript và .NET), giúp đơn giản hóa việc tích hợp AWS AppSync Events cho các ứng dụng thời gian thực như ứng dụng chat, bảng điều khiển hoặc hệ thống Iot
